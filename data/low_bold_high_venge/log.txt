@@ -1,0 +1,114 @@
+  0%|          | 0/10 [00:00<?, ?it/s]All agents take test. TRY1
+The test scores are as follows:
+Noah: 54
+Liam: 77    [CHEATED]
+Heidi: 49
+Karl: 56
+Sean: 77    [CHEATED]
+Rose: 48
+Yara: 50
+
+Start discussion. TRY1.
+Liam has punished by Karl.
+ 10%|█         | 1/10 [06:12<55:55, 372.87s/it]All agents take test. TRY2
+The test scores are as follows:
+Xena: 55
+Eve: 49
+Rose: 51
+Olga: 46
+Sean: 51
+Karl: 42
+Bob: 49
+
+Start discussion. TRY2.
+ 20%|██        | 2/10 [11:51<47:02, 352.79s/it]All agents take test. TRY3
+The test scores are as follows:
+Grace: 48
+Heidi: 50
+Eve: 53
+Frank: 46
+Xena: 53
+Sean: 52
+Tina: 55
+
+Start discussion. TRY3.
+ 30%|███       | 3/10 [18:04<42:14, 362.12s/it]All agents take test. TRY4
+The test scores are as follows:
+Frank: 52
+David: 53
+Eve: 44
+Carol: 54
+Ivy: 51
+Merry: 80    [CHEATED]
+Tina: 53
+
+Start discussion. TRY4.
+Merry has punished by Eve.
+ 40%|████      | 4/10 [23:28<34:42, 347.01s/it]All agents take test. TRY5
+The test scores are as follows:
+Rose: 51
+John: 54
+Quin: 51
+Ivy: 51
+Frank: 47
+Olga: 46
+David: 79    [CHEATED]
+
+Start discussion. TRY5.
+David has punished by John.
+ 50%|█████     | 5/10 [28:42<27:55, 335.09s/it]All agents take test. TRY6
+The test scores are as follows:
+Vera: 53
+Quin: 46
+Noah: 47
+Steve: 47
+Alice: 49
+Zane: 49
+Tina: 49
+
+Start discussion. TRY6.
+ 60%|██████    | 6/10 [33:55<21:50, 327.68s/it]All agents take test. TRY7
+The test scores are as follows:
+Steve: 51
+Heidi: 51
+Liam: 47
+Quin: 47
+Mia: 54
+Xena: 47
+Noah: 48
+
+Start discussion. TRY7.
+ 70%|███████   | 7/10 [40:37<17:35, 351.93s/it]All agents take test. TRY8
+The test scores are as follows:
+Steve: 51
+Olga: 48
+Alice: 48
+Heidi: 46
+Quin: 45
+Bob: 51
+Karl: 48
+
+Start discussion. TRY8.
+ 80%|████████  | 8/10 [46:31<11:44, 352.48s/it]All agents take test. TRY9
+The test scores are as follows:
+Alice: 49
+Noah: 47
+Olga: 47
+John: 53
+Steve: 46
+Rose: 47
+Eve: 48
+
+Start discussion. TRY9.
+ 90%|█████████ | 9/10 [51:32<05:36, 336.53s/it]All agents take test. TRY10
+The test scores are as follows:
+Heidi: 51
+Grace: 54
+Quin: 0
+Tina: 51
+Karl: 58
+Xena: 45
+Carol: 42
+
+Start discussion. TRY10.
+100%|██████████| 10/10 [58:14<00:00, 349.42s/it]
