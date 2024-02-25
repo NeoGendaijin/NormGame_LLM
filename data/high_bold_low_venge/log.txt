@@ -1,0 +1,113 @@
+  0%|          | 0/10 [00:00<?, ?it/s]All agents take test. TRY1
+The test scores are as follows:
+John: 51
+Zane: 48
+Ivy: 46
+Vera: 49
+Merry: 77    [CHEATED]
+Mia: 52
+Quin: 54
+
+Start discussion. TRY1.
+Merry has punished by Ivy.
+ 10%|█         | 1/10 [06:22<57:25, 382.81s/it]All agents take test. TRY2
+The test scores are as follows:
+Carol: 51
+Merry: 51
+Olga: 52
+Yara: 49
+John: 47
+Alice: 49
+Heidi: 47
+
+Start discussion. TRY2.
+ 20%|██        | 2/10 [12:21<49:09, 368.70s/it]All agents take test. TRY3
+The test scores are as follows:
+Karl: 47
+Bob: 47
+Liam: 45
+Steve: 79    [CHEATED]
+Jack: 50
+Mia: 46
+Olga: 47
+
+Start discussion. TRY3.
+ 30%|███       | 3/10 [17:00<38:13, 327.69s/it]All agents take test. TRY4
+The test scores are as follows:
+Jack: 52
+Heidi: 49
+Karl: 43
+Grace: 54
+Xena: 53
+Zane: 47
+John: 49
+
+Start discussion. TRY4.
+ 40%|████      | 4/10 [21:31<30:31, 305.30s/it]All agents take test. TRY5
+The test scores are as follows:
+Paul: 47
+Jack: 47
+Olga: 48
+Tina: 46
+Frank: 51
+Noah: 50
+Yara: 51
+
+Start discussion. TRY5.
+ 50%|█████     | 5/10 [26:11<24:40, 296.02s/it]All agents take test. TRY6
+The test scores are as follows:
+Sean: 45
+Wade: 51
+Quin: 52
+Mia: 47
+Olga: 49
+Ivy: 50
+Paul: 47
+
+Start discussion. TRY6.
+ 60%|██████    | 6/10 [31:21<20:03, 300.97s/it]All agents take test. TRY7
+The test scores are as follows:
+Paul: 47
+Steve: 51
+David: 42
+Merry: 51
+Vera: 52
+John: 82    [CHEATED]
+Tina: 46
+
+Start discussion. TRY7.
+John has punished by Paul.
+ 70%|███████   | 7/10 [36:23<15:04, 301.35s/it]All agents take test. TRY8
+The test scores are as follows:
+Frank: 79    [CHEATED]
+Merry: 47
+Olga: 50
+Liam: 52
+Paul: 52
+David: 49
+Sean: 47
+
+Start discussion. TRY8.
+ 80%|████████  | 8/10 [42:27<10:42, 321.21s/it]All agents take test. TRY9
+The test scores are as follows:
+Jack: 53
+Liam: 49
+John: 82    [CHEATED]
+Xena: 49
+Ulla: 48
+Karl: 47
+Vera: 80    [CHEATED]
+
+Start discussion. TRY9.
+ 90%|█████████ | 9/10 [47:44<05:19, 319.81s/it]All agents take test. TRY10
+The test scores are as follows:
+Noah: 55
+Grace: 46
+Xena: 45
+David: 53
+Sean: 50
+Heidi: 57
+Liam: 48
+
+Start discussion. TRY10.
+100%|██████████| 10/10 [50:38<00:00, 303.83s/it]

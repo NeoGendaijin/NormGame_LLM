@@ -1,0 +1,111 @@
+  0%|          | 0/10 [00:00<?, ?it/s]All agents take test. TRY1
+The test scores are as follows:
+Ivy: 50
+Heidi: 48
+Tina: 52
+Grace: 45
+Rose: 42
+Olga: 51
+Sean: 48
+
+Start discussion. TRY1.
+ 10%|█         | 1/10 [04:36<41:28, 276.53s/it]All agents take test. TRY2
+The test scores are as follows:
+Carol: 49
+Karl: 49
+Jack: 48
+Noah: 49
+Ivy: 48
+Bob: 53
+Olga: 50
+
+Start discussion. TRY2.
+ 20%|██        | 2/10 [09:13<36:52, 276.56s/it]All agents take test. TRY3
+The test scores are as follows:
+David: 48
+Sean: 49
+Ivy: 47
+Quin: 48
+Mia: 49
+Heidi: 50
+Alice: 45
+
+Start discussion. TRY3.
+ 30%|███       | 3/10 [13:49<32:15, 276.53s/it]All agents take test. TRY4
+The test scores are as follows:
+Sean: 46
+Jack: 53
+Heidi: 48
+David: 51
+Grace: 49
+Zane: 52
+Quin: 48
+
+Start discussion. TRY4.
+ 40%|████      | 4/10 [18:34<27:59, 279.95s/it]All agents take test. TRY5
+The test scores are as follows:
+Xena: 52
+Carol: 47
+Alice: 54
+Yara: 46
+Rose: 46
+Vera: 53
+Merry: 56
+
+Start discussion. TRY5.
+ 50%|█████     | 5/10 [23:08<23:07, 277.52s/it]All agents take test. TRY6
+The test scores are as follows:
+Grace: 45
+Zane: 47
+Merry: 50
+Mia: 43
+Ulla: 46
+Tina: 50
+Bob: 48
+
+Start discussion. TRY6.
+ 60%|██████    | 6/10 [27:13<17:46, 266.61s/it]All agents take test. TRY7
+The test scores are as follows:
+Grace: 50
+Vera: 48
+Tina: 44
+Frank: 45
+Zane: 55
+Paul: 49
+Wade: 52
+
+Start discussion. TRY7.
+ 70%|███████   | 7/10 [31:54<13:34, 271.48s/it]All agents take test. TRY8
+The test scores are as follows:
+Liam: 47
+Alice: 52
+Tina: 54
+Jack: 46
+Xena: 50
+Sean: 49
+Carol: 46
+
+Start discussion. TRY8.
+ 80%|████████  | 8/10 [37:03<09:26, 283.42s/it]All agents take test. TRY9
+The test scores are as follows:
+Xena: 46
+Rose: 47
+Steve: 50
+Mia: 48
+Yara: 51
+Merry: 46
+Ivy: 49
+
+Start discussion. TRY9.
+ 90%|█████████ | 9/10 [41:31<04:38, 278.32s/it]All agents take test. TRY10
+The test scores are as follows:
+John: 52
+Rose: 50
+Xena: 52
+Heidi: 48
+Yara: 53
+Vera: 49
+Jack: 49
+
+Start discussion. TRY10.
+100%|██████████| 10/10 [46:27<00:00, 278.74s/it]

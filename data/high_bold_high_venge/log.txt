@@ -1,0 +1,182 @@
+  0%|          | 0/10 [00:00<?, ?it/s]All agents take test. TRY1
+The test scores are as follows:
+Grace: 83    [CHEATED]
+Steve: 82    [CHEATED]
+Ulla: 51
+David: 82    [CHEATED]
+Jack: 81    [CHEATED]
+Sean: 81    [CHEATED]
+Tina: 80    [CHEATED]
+
+Start discussion. TRY1.
+Steve has punished by Grace.
+Tina has punished by Ulla.
+Jack has punished by Sean.
+Sean has punished by Tina.
+Sean has punished by Tina.
+Sean has punished by Steve.
+Steve has punished by Grace.
+ 10%|█         | 1/10 [06:55<1:02:23, 415.91s/it]Steve has punished by Grace.
+All agents take test. TRY2
+The test scores are as follows:
+Xena: 80    [CHEATED]
+Olga: 81    [CHEATED]
+Karl: 78    [CHEATED]
+Rose: 79    [CHEATED]
+Merry: 80    [CHEATED]
+Liam: 79    [CHEATED]
+Grace: 79    [CHEATED]
+
+Start discussion. TRY2.
+Xena has punished by Olga.
+Liam has punished by Karl.
+Olga has punished by Xena.
+Grace has punished by Karl.
+Karl has punished by Merry.
+Merry has punished by Grace.
+Grace has punished by Rose.
+Rose has punished by Xena.
+Karl has punished by Liam.
+Xena has punished by Olga.
+Xena has punished by Rose.
+Rose has punished by Liam.
+Xena has punished by Olga.
+Rose has punished by Grace.
+Grace has punished by Rose.
+Rose has punished by Grace.
+ 20%|██        | 2/10 [12:40<49:52, 374.12s/it]  Grace has punished by Karl.
+All agents take test. TRY3
+The test scores are as follows:
+Yara: 53
+Ivy: 76    [CHEATED]
+Jack: 47
+Ulla: 79    [CHEATED]
+Bob: 45
+Eve: 74    [CHEATED]
+Quin: 80    [CHEATED]
+
+Start discussion. TRY3.
+Ivy has punished by Jack.
+Quin has punished by Ulla.
+Eve has punished by Jack.
+Ulla has punished by Eve.
+Jack has punished by Ivy.
+Ulla has punished by Quin.
+ 30%|███       | 3/10 [18:52<43:31, 373.12s/it]All agents take test. TRY4
+The test scores are as follows:
+Tina: 51
+Liam: 53
+Sean: 0
+Bob: 77    [CHEATED]
+Carol: 79    [CHEATED]
+Frank: 53
+Heidi: 51
+
+Start discussion. TRY4.
+Carol has punished by Bob.
+Bob has punished by Frank.
+Bob has punished by Heidi.
+Carol has punished by Tina.
+Tina has punished by Heidi.
+Heidi has punished by Sean.
+Heidi has punished by Tina.
+Heidi has punished by Bob.
+Bob has punished by Liam.
+Heidi has punished by Tina.
+Liam has punished by Bob.
+Bob has punished by Sean.
+Sean has punished by Bob.
+Bob has punished by Liam.
+Liam has punished by Bob.
+Sean has punished by Liam.
+Bob has punished by Carol.
+ 40%|████      | 4/10 [24:41<36:21, 363.56s/it]Carol has punished by Sean.
+All agents take test. TRY5
+The test scores are as follows:
+Noah: 77    [CHEATED]
+Ivy: 81    [CHEATED]
+Zane: 47
+Rose: 81    [CHEATED]
+John: 80    [CHEATED]
+Eve: 79    [CHEATED]
+Ulla: 82    [CHEATED]
+
+Start discussion. TRY5.
+ 50%|█████     | 5/10 [32:39<33:44, 404.84s/it]All agents take test. TRY6
+The test scores are as follows:
+Yara: 83    [CHEATED]
+Steve: 48
+Paul: 76    [CHEATED]
+Noah: 53
+Liam: 79    [CHEATED]
+Tina: 48
+Frank: 77    [CHEATED]
+
+Start discussion. TRY6.
+ 60%|██████    | 6/10 [39:20<26:53, 403.36s/it]All agents take test. TRY7
+The test scores are as follows:
+Ulla: 49
+Steve: 47
+Yara: 80    [CHEATED]
+Ivy: 51
+Tina: 81    [CHEATED]
+Jack: 77    [CHEATED]
+Vera: 82    [CHEATED]
+
+Start discussion. TRY7.
+Vera has punished by Jack.
+Yara has punished by Tina.
+ 70%|███████   | 7/10 [46:44<20:50, 416.76s/it]All agents take test. TRY8
+The test scores are as follows:
+Alice: 79    [CHEATED]
+Noah: 51
+Ivy: 56
+Quin: 85    [CHEATED]
+Bob: 79    [CHEATED]
+Steve: 81    [CHEATED]
+Liam: 79    [CHEATED]
+
+Start discussion. TRY8.
+Quin has punished by Noah.
+Bob has punished by Alice.
+Steve has punished by Liam.
+ 80%|████████  | 8/10 [52:45<13:18, 399.02s/it]All agents take test. TRY9
+The test scores are as follows:
+Vera: 83    [CHEATED]
+Bob: 50
+Noah: 47
+Liam: 52
+Ivy: 79    [CHEATED]
+Carol: 77    [CHEATED]
+Zane: 81    [CHEATED]
+
+Start discussion. TRY9.
+Vera has punished by Carol.
+Ivy has punished by Liam.
+Zane has punished by Ivy.
+Liam has punished by Carol.
+Noah has punished by Carol.
+Bob has punished by Carol.
+Carol has punished by Zane.
+Carol has punished by Bob.
+Ivy has punished by Zane.
+ 90%|█████████ | 9/10 [1:00:19<06:56, 416.07s/it]All agents take test. TRY10
+The test scores are as follows:
+Jack: 82    [CHEATED]
+Yara: 83    [CHEATED]
+Merry: 81    [CHEATED]
+Karl: 0
+Tina: 79    [CHEATED]
+Heidi: 54
+Carol: 83    [CHEATED]
+
+Start discussion. TRY10.
+Carol has punished by Merry.
+Yara has punished by Merry.
+Tina has punished by Karl.
+Heidi has punished by Jack.
+Karl has punished by Jack.
+Merry has punished by Carol.
+Carol has punished by Jack.
+Merry has punished by Yara.
+100%|██████████| 10/10 [1:06:04<00:00, 396.41s/it]
