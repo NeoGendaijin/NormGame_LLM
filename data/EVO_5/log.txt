@@ -1,0 +1,1042 @@
+All agents take test. EPOCH 0
+The test scores are as follows: 
+Merry: 52
+Olga: 55
+Quin: 84    [CHEATED]
+Eve: 52
+Paul: 50
+Tina: 0
+Frank: 43
+
+Start discussion.
+Quin has punished by Merry.
+======Final score ======
+
+The test scores are as follows: 
+Merry: 32
+Olga: 55
+Quin: -6    [CHEATED]
+Eve: 52
+Paul: 50
+Tina: 0
+Frank: 43
+
+From : Analytical, Methodical, Detail-oriented, Perfectionist
+
+To : Analytically inclined, systematically thorough, meticulously attentive to details, and holds a perfection-seeking attitude.
+
+All agents take test. EPOCH 1
+The test scores are as follows: 
+Frank: 46
+Vera: 50
+Wade: 52
+Heidi: 47
+Zane: 50
+Liam: 49
+Yara: 82    [CHEATED]
+
+Start discussion.
+Yara has punished by Frank.
+======Final score ======
+
+The test scores are as follows: 
+Frank: 26
+Vera: 50
+Wade: 52
+Heidi: 47
+Zane: 50
+Liam: 49
+Yara: -8    [CHEATED]
+
+From : Socially adept, manipulates others, values alliances.
+
+To : Skilled in social interactions, adept at influencing others, and places high importance on forming strategic partnerships.
+
+All agents take test. EPOCH 2
+The test scores are as follows: 
+Alice: 48
+Merry: 0
+Vera: 50
+Noah: 53
+Sean: 49
+Quin: 51
+Jack: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Alice: 48
+Merry: 0
+Vera: 50
+Noah: 53
+Sean: 49
+Quin: 51
+Jack: 50
+
+From : Socially adept, manipulates others, values alliances.
+
+To : Highly sociable, skillfully influences people, prioritizes building connections.
+
+All agents take test. EPOCH 3
+The test scores are as follows: 
+John: 43
+Olga: 53
+Mia: 47
+Paul: 56
+Carol: 52
+Eve: 51
+Frank: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+John: 43
+Olga: 53
+Mia: 47
+Paul: 56
+Carol: 52
+Eve: 51
+Frank: 48
+
+From : Highly sociable, skillfully influences people, prioritizes building connections.
+
+To : Extremely outgoing, adept at swaying others, places a high importance on nurturing relationships.
+
+All agents take test. EPOCH 4
+The test scores are as follows: 
+Carol: 50
+Heidi: 46
+John: 48
+Wade: 50
+Merry: 52
+Vera: 46
+Jack: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Carol: 50
+Heidi: 46
+John: 48
+Wade: 50
+Merry: 52
+Vera: 46
+Jack: 50
+
+From : Independent, prefers solitude, self-reliant strategies.
+
+To : Prefers being alone, adopts self-sufficient approaches, and values independence.
+
+All agents take test. EPOCH 5
+The test scores are as follows: 
+Bob: 49
+Noah: 50
+Liam: 49
+Rose: 48
+Olga: 50
+Merry: 50
+Xena: 52
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 49
+Noah: 50
+Liam: 49
+Rose: 48
+Olga: 50
+Merry: 50
+Xena: 52
+
+From : Analytical, Methodical, Detail-oriented, Perfectionist
+
+To : Analytically minded, follows a methodical approach, pays attention to details, strives for perfection.
+
+All agents take test. EPOCH 6
+The test scores are as follows: 
+Bob: 47
+Noah: 46
+Vera: 53
+Alice: 55
+Wade: 50
+Frank: 52
+John: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 47
+Noah: 46
+Vera: 53
+Alice: 55
+Wade: 50
+Frank: 52
+John: 48
+
+From : Analytical, Methodical, Detail-oriented, Perfectionist
+
+To : Analytically inclined, systematically thorough, meticulously attentive to details, and a seeker of perfection.
+
+All agents take test. EPOCH 7
+The test scores are as follows: 
+Eve: 45
+Mia: 54
+Karl: 44
+Carol: 47
+Paul: 50
+Grace: 54
+Merry: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Eve: 45
+Mia: 54
+Karl: 44
+Carol: 47
+Paul: 50
+Grace: 54
+Merry: 49
+
+From : Highly sociable, skillfully influences people, prioritizes building connections.
+
+To : Extremely outgoing, adept at swaying others, places a high emphasis on fostering relationships.
+
+All agents take test. EPOCH 8
+The test scores are as follows: 
+Xena: 55
+John: 53
+Alice: 51
+Liam: 53
+Noah: 55
+Mia: 48
+Vera: 44
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Xena: 55
+John: 53
+Alice: 51
+Liam: 53
+Noah: 55
+Mia: 48
+Vera: 44
+
+From : Highly sociable, skillfully influences people, prioritizes building connections.
+
+To : Exceptionally outgoing and adept at influencing others, places a strong emphasis on cultivating relationships.
+
+All agents take test. EPOCH 9
+The test scores are as follows: 
+Steve: 50
+Jack: 47
+Wade: 52
+Liam: 51
+Rose: 52
+Quin: 50
+Olga: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Steve: 50
+Jack: 47
+Wade: 52
+Liam: 51
+Rose: 52
+Quin: 50
+Olga: 48
+
+From : Highly sociable, skillfully influences people, prioritizes building connections.
+
+To : Extremely outgoing, adept at persuading others, places a strong emphasis on fostering relationships.
+
+All agents take test. EPOCH 10
+The test scores are as follows: 
+Carol: 47
+Eve: 50
+John: 50
+Xena: 52
+Ulla: 54
+Paul: 48
+David: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Carol: 47
+Eve: 50
+John: 50
+Xena: 52
+Ulla: 54
+Paul: 48
+David: 50
+
+From : Highly sociable, skillfully influences people, prioritizes building connections.
+
+To : Extremely outgoing and adept at impacting others, places a high emphasis on forging relationships.
+
+All agents take test. EPOCH 11
+The test scores are as follows: 
+Ivy: 46
+Mia: 48
+Merry: 50
+Rose: 50
+Alice: 52
+Eve: 47
+Olga: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Ivy: 46
+Mia: 48
+Merry: 50
+Rose: 50
+Alice: 52
+Eve: 47
+Olga: 49
+
+From : Extremely outgoing, adept at persuading others, places a strong emphasis on fostering relationships.
+
+To : Highly sociable and skilled in influencing others, prioritizes building and maintaining connections.
+
+All agents take test. EPOCH 12
+The test scores are as follows: 
+Ulla: 0
+Alice: 46
+Sean: 53
+Tina: 45
+Mia: 52
+Wade: 46
+Steve: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Ulla: 0
+Alice: 46
+Sean: 53
+Tina: 45
+Mia: 52
+Wade: 46
+Steve: 49
+
+From : Highly sociable and skilled in influencing others, prioritizes building and maintaining connections.
+
+To : Exceptionally adept at social interactions and influencing peers, places a strong emphasis on establishing and nurturing relationships.
+
+All agents take test. EPOCH 13
+The test scores are as follows: 
+Mia: 57
+Eve: 46
+Alice: 55
+Frank: 54
+Ulla: 48
+Liam: 50
+Zane: 44
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Mia: 57
+Eve: 46
+Alice: 55
+Frank: 54
+Ulla: 48
+Liam: 50
+Zane: 44
+
+From : Highly sociable and skilled in influencing others, prioritizes building and maintaining connections.
+
+To : Extremely outgoing and adept at persuading people, places a strong emphasis on developing and nurturing relationships.
+
+All agents take test. EPOCH 14
+The test scores are as follows: 
+Noah: 52
+Eve: 48
+Steve: 50
+Paul: 52
+Xena: 42
+Jack: 56
+Carol: 47
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Noah: 52
+Eve: 48
+Steve: 50
+Paul: 52
+Xena: 42
+Jack: 56
+Carol: 47
+
+From : Highly sociable and skilled in influencing others, prioritizes building and maintaining connections.
+
+To : Extremely outgoing and adept at persuading others, focuses on establishing and nurturing relationships.
+
+All agents take test. EPOCH 15
+The test scores are as follows: 
+Heidi: 54
+Frank: 49
+Mia: 46
+Ivy: 59
+Xena: 45
+Rose: 47
+Zane: 53
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Heidi: 54
+Frank: 49
+Mia: 46
+Ivy: 59
+Xena: 45
+Rose: 47
+Zane: 53
+
+From : Exceptionally adept at social interactions and influencing peers, places a strong emphasis on establishing and nurturing relationships.
+
+To : Highly skilled in engaging with others and influencing those around them, prioritizes building and maintaining connections.
+
+All agents take test. EPOCH 16
+The test scores are as follows: 
+Merry: 45
+Eve: 44
+Steve: 50
+Jack: 48
+Wade: 54
+Carol: 49
+Liam: 46
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Merry: 45
+Eve: 44
+Steve: 50
+Jack: 48
+Wade: 54
+Carol: 49
+Liam: 46
+
+From : Exceptionally adept at social interactions and influencing peers, places a strong emphasis on establishing and nurturing relationships.
+
+To : Highly skilled in engaging with others and swaying colleagues, prioritizes building and maintaining connections.
+
+All agents take test. EPOCH 17
+The test scores are as follows: 
+Paul: 46
+Merry: 51
+Jack: 44
+Tina: 48
+David: 51
+Liam: 48
+Olga: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Paul: 46
+Merry: 51
+Jack: 44
+Tina: 48
+David: 51
+Liam: 48
+Olga: 48
+
+From : Highly sociable and skilled in influencing others, prioritizes building and maintaining connections.
+
+To : Exceptionally outgoing and adept at persuading others, places a strong emphasis on establishing and upholding relationships.
+
+All agents take test. EPOCH 18
+The test scores are as follows: 
+Sean: 48
+Tina: 52
+Steve: 58
+Paul: 45
+David: 49
+Liam: 53
+Zane: 53
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Sean: 48
+Tina: 52
+Steve: 58
+Paul: 45
+David: 49
+Liam: 53
+Zane: 53
+
+From : Highly sociable and skilled in influencing others, prioritizes building and maintaining connections.
+
+To : Deeply engaging and adept at persuasion, focuses on nurturing and sustaining relationships.
+
+All agents take test. EPOCH 19
+The test scores are as follows: 
+John: 46
+Heidi: 51
+Liam: 49
+Bob: 50
+Wade: 49
+Yara: 48
+Tina: 53
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+John: 46
+Heidi: 51
+Liam: 49
+Bob: 50
+Wade: 49
+Yara: 48
+Tina: 53
+
+From : Highly skilled in engaging with others and influencing those around them, prioritizes building and maintaining connections.
+
+To : Exceptionally adept at interacting with individuals and persuading their peers, places a strong emphasis on establishing and nurturing relationships.
+
+All agents take test. EPOCH 20
+The test scores are as follows: 
+Bob: 52
+Paul: 49
+Ulla: 49
+Jack: 45
+Alice: 45
+Zane: 47
+David: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 52
+Paul: 49
+Ulla: 49
+Jack: 45
+Alice: 45
+Zane: 47
+David: 49
+
+From : Highly skilled in engaging with others and influencing those around them, prioritizes building and maintaining connections.
+
+To : Exceptionally adept at interacting and persuading their peers, they place a strong emphasis on establishing and nurturing relationships.
+
+All agents take test. EPOCH 21
+The test scores are as follows: 
+Yara: 52
+Noah: 51
+Zane: 45
+Merry: 49
+Wade: 52
+Karl: 48
+Vera: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Yara: 52
+Noah: 51
+Zane: 45
+Merry: 49
+Wade: 52
+Karl: 48
+Vera: 48
+
+From : Deeply engaging and adept at persuasion, focuses on nurturing and sustaining relationships.
+
+To : Exceptionally captivating and skilled in influencing others, dedicated to fostering and maintaining connections.
+
+All agents take test. EPOCH 22
+The test scores are as follows: 
+David: 55
+Paul: 47
+Karl: 53
+John: 54
+Heidi: 49
+Merry: 53
+Ivy: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+David: 55
+Paul: 47
+Karl: 53
+John: 54
+Heidi: 49
+Merry: 53
+Ivy: 50
+
+From : Highly skilled in engaging with others and influencing those around them, prioritizes building and maintaining connections.
+
+To : Possesses exceptional talent in connecting with people and exerting a positive influence on others, placing a strong emphasis on establishing and nurturing relationships.
+
+All agents take test. EPOCH 23
+The test scores are as follows: 
+Olga: 50
+Heidi: 49
+Alice: 46
+Paul: 48
+Liam: 54
+Vera: 51
+Tina: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Olga: 50
+Heidi: 49
+Alice: 46
+Paul: 48
+Liam: 54
+Vera: 51
+Tina: 48
+
+From : Exceptionally adept at interacting with individuals and persuading their peers, places a strong emphasis on establishing and nurturing relationships.
+
+To : Highly skilled in engaging with people and influencing their peers, strongly focuses on building and maintaining relationships.
+
+All agents take test. EPOCH 24
+The test scores are as follows: 
+Tina: 50
+John: 47
+Xena: 48
+Frank: 54
+Vera: 53
+Olga: 51
+Sean: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Tina: 50
+John: 47
+Xena: 48
+Frank: 54
+Vera: 53
+Olga: 51
+Sean: 48
+
+From : Exceptionally adept at interacting and persuading their peers, they place a strong emphasis on establishing and nurturing relationships.
+
+To : Highly skilled in engaging and influencing their peers, they prioritize building and maintaining relationships.
+
+All agents take test. EPOCH 25
+The test scores are as follows: 
+John: 53
+Frank: 54
+David: 50
+Jack: 54
+Merry: 49
+Xena: 48
+Rose: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+John: 53
+Frank: 54
+David: 50
+Jack: 54
+Merry: 49
+Xena: 48
+Rose: 48
+
+From : Highly skilled in engaging and influencing their peers, they prioritize building and maintaining relationships.
+
+To : They excel at captivating and swaying their colleagues, placing a strong emphasis on fostering and preserving connections.
+
+All agents take test. EPOCH 26
+The test scores are as follows: 
+Grace: 48
+Carol: 49
+John: 51
+Merry: 47
+Noah: 50
+Yara: 50
+Heidi: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Grace: 48
+Carol: 49
+John: 51
+Merry: 47
+Noah: 50
+Yara: 50
+Heidi: 49
+
+From : Highly skilled in engaging with others and influencing those around them, prioritizes building and maintaining connections.
+
+To : Expert at connecting with people and shaping opinions, focuses on establishing and nurturing relationships.
+
+All agents take test. EPOCH 27
+The test scores are as follows: 
+Eve: 48
+Ulla: 53
+Olga: 49
+David: 44
+Xena: 48
+Mia: 43
+Ivy: 47
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Eve: 48
+Ulla: 53
+Olga: 49
+David: 44
+Xena: 48
+Mia: 43
+Ivy: 47
+
+From : Exceptionally adept at interacting with individuals and persuading their peers, places a strong emphasis on establishing and nurturing relationships.
+
+To : Highly skilled in engaging with people and influencing their colleagues, prioritizes building and maintaining connections.
+
+All agents take test. EPOCH 28
+The test scores are as follows: 
+Vera: 52
+Xena: 50
+Steve: 49
+Alice: 47
+Bob: 46
+Mia: 51
+Frank: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Vera: 52
+Xena: 50
+Steve: 49
+Alice: 47
+Bob: 46
+Mia: 51
+Frank: 49
+
+From : Highly skilled in engaging with people and influencing their colleagues, prioritizes building and maintaining connections.
+
+To : Possesses exceptional talent in interacting with individuals and positively impacting their peers, with a strong focus on nurturing and sustaining relationships.
+
+All agents take test. EPOCH 29
+The test scores are as follows: 
+Sean: 50
+Frank: 49
+Liam: 50
+Mia: 51
+Jack: 49
+Karl: 44
+Grace: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Sean: 50
+Frank: 49
+Liam: 50
+Mia: 51
+Jack: 49
+Karl: 44
+Grace: 50
+
+From : Expert at connecting with people and shaping opinions, focuses on establishing and nurturing relationships.
+
+To : Skilled in engaging with individuals and influencing perspectives, dedicated to building and fostering connections.
+
+All agents take test. EPOCH 30
+The test scores are as follows: 
+Liam: 48
+Heidi: 50
+Merry: 51
+Grace: 49
+Jack: 54
+Yara: 51
+Vera: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Liam: 48
+Heidi: 50
+Merry: 51
+Grace: 49
+Jack: 54
+Yara: 51
+Vera: 50
+
+From : Skilled in engaging with individuals and influencing perspectives, dedicated to building and fostering connections.
+
+To : Proficient in interacting with people and shaping viewpoints, committed to nurturing and developing relationships.
+
+All agents take test. EPOCH 31
+The test scores are as follows: 
+Xena: 47
+Zane: 51
+Bob: 49
+Eve: 51
+Carol: 54
+Ivy: 50
+Mia: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Xena: 47
+Zane: 51
+Bob: 49
+Eve: 51
+Carol: 54
+Ivy: 50
+Mia: 48
+
+From : Skilled in engaging with individuals and influencing perspectives, dedicated to building and fostering connections.
+
+To : Proficient at interacting with people and shaping their viewpoints, committed to developing and nurturing relationships.
+
+All agents take test. EPOCH 32
+The test scores are as follows: 
+Zane: 48
+Grace: 57
+Tina: 54
+Wade: 48
+Yara: 44
+Quin: 50
+Olga: 47
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 48
+Grace: 57
+Tina: 54
+Wade: 48
+Yara: 44
+Quin: 50
+Olga: 47
+
+From : Highly skilled in engaging with others and influencing those around them, prioritizes building and maintaining connections.
+
+To : Exceptionally adept at interacting with individuals and swaying those in their vicinity, places utmost importance on establishing and nurturing relationships.
+
+All agents take test. EPOCH 33
+The test scores are as follows: 
+Sean: 49
+Steve: 50
+Ivy: 41
+Merry: 49
+Ulla: 58
+Zane: 52
+Wade: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Sean: 49
+Steve: 50
+Ivy: 41
+Merry: 49
+Ulla: 58
+Zane: 52
+Wade: 48
+
+From : Exceptionally adept at interacting with individuals and persuading their peers, places a strong emphasis on establishing and nurturing relationships.
+
+To : Highly skilled in engaging with people and influencing their colleagues, prioritizes building and maintaining connections.
+
+All agents take test. EPOCH 34
+The test scores are as follows: 
+Liam: 58
+Alice: 50
+Heidi: 45
+Noah: 50
+Karl: 54
+Paul: 50
+Olga: 51
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Liam: 58
+Alice: 50
+Heidi: 45
+Noah: 50
+Karl: 54
+Paul: 50
+Olga: 51
+
+From : Exceptionally adept at interacting with individuals and swaying those in their vicinity, places utmost importance on establishing and nurturing relationships.
+
+To : Highly skilled in engaging with people and influencing those around them, prioritizes building and maintaining connections.
+
+All agents take test. EPOCH 35
+The test scores are as follows: 
+Liam: 45
+Grace: 48
+Karl: 55
+Eve: 46
+Wade: 50
+John: 52
+Olga: 51
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Liam: 45
+Grace: 48
+Karl: 55
+Eve: 46
+Wade: 50
+John: 52
+Olga: 51
+
+From : Highly skilled in engaging with people and influencing their colleagues, prioritizes building and maintaining connections.
+
+To : Exceptionally proficient in interacting with individuals and swaying their peers, places a high emphasis on establishing and nurturing relationships.
+
+All agents take test. EPOCH 36
+The test scores are as follows: 
+Bob: 48
+Paul: 51
+Frank: 51
+Olga: 47
+Jack: 52
+Karl: 51
+Alice: 47
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 48
+Paul: 51
+Frank: 51
+Olga: 47
+Jack: 52
+Karl: 51
+Alice: 47
+
+From : Highly skilled in engaging with people and influencing their colleagues, prioritizes building and maintaining connections.
+
+To : Possesses exceptional skills in interacting with others and effectively influencing peers, with a focus on fostering and sustaining relationships.
+
+All agents take test. EPOCH 37
+The test scores are as follows: 
+Sean: 49
+Merry: 53
+Liam: 47
+Yara: 46
+Xena: 46
+Quin: 51
+Bob: 51
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Sean: 49
+Merry: 53
+Liam: 47
+Yara: 46
+Xena: 46
+Quin: 51
+Bob: 51
+
+From : Exceptionally adept at interacting with individuals and swaying those in their vicinity, places utmost importance on establishing and nurturing relationships.
+
+To : Highly skilled in engaging with people and influencing those around them, prioritizes building and maintaining relationships.
+
+All agents take test. EPOCH 38
+The test scores are as follows: 
+Grace: 46
+Noah: 47
+Heidi: 53
+David: 50
+Alice: 52
+Quin: 53
+Carol: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Grace: 46
+Noah: 47
+Heidi: 53
+David: 50
+Alice: 52
+Quin: 53
+Carol: 50
+
+From : Exceptionally adept at interacting with individuals and swaying those in their vicinity, places utmost importance on establishing and nurturing relationships.
+
+To : Highly skilled in engaging with people and influencing those around them, prioritizes building and maintaining relationships.
+
+All agents take test. EPOCH 39
+The test scores are as follows: 
+Grace: 55
+Xena: 46
+Sean: 52
+Frank: 52
+Eve: 47
+Ulla: 47
+Wade: 52
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Grace: 55
+Xena: 46
+Sean: 52
+Frank: 52
+Eve: 47
+Ulla: 47
+Wade: 52
+
+From : Exceptionally adept at interacting with individuals and swaying those in their vicinity, places utmost importance on establishing and nurturing relationships.
+
+To : Highly skilled in engaging with people and influencing those around them, prioritizing the creation and maintenance of relationships above all.
+

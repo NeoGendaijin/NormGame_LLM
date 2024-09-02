@@ -1,0 +1,1097 @@
+All agents take test. EPOCH 0
+The test scores are as follows: 
+Olga: 79    [CHEATED]
+Alice: 54
+Steve: 47
+Quin: 50
+Ivy: 81    [CHEATED]
+Heidi: 56
+Mia: 81    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Olga: 79    [CHEATED]
+Alice: 54
+Steve: 47
+Quin: 50
+Ivy: 81    [CHEATED]
+Heidi: 56
+Mia: 81    [CHEATED]
+
+From : Adaptive, flexible, quickly changes strategies based on situational demands.
+
+To : Agile, versatile, and rapidly adjusts approaches in response to the needs of the situation.
+
+All agents take test. EPOCH 1
+The test scores are as follows: 
+Wade: 82    [CHEATED]
+Ulla: 78    [CHEATED]
+Merry: 49
+Frank: 80    [CHEATED]
+Heidi: 75    [CHEATED]
+Grace: 42
+Olga: 51
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Wade: 82    [CHEATED]
+Ulla: 78    [CHEATED]
+Merry: 49
+Frank: 80    [CHEATED]
+Heidi: 75    [CHEATED]
+Grace: 42
+Olga: 51
+
+From : Impulsive, unpredictable, acts on whims, ignores strategy.
+
+To : Unpredictable and impulsive, often makes decisions based on sudden urges rather than following a planned strategy.
+
+All agents take test. EPOCH 2
+The test scores are as follows: 
+Eve: 86    [CHEATED]
+Xena: 77    [CHEATED]
+Steve: 79    [CHEATED]
+David: 75    [CHEATED]
+Heidi: 79    [CHEATED]
+Vera: 82    [CHEATED]
+Frank: 43
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Eve: 86    [CHEATED]
+Xena: 77    [CHEATED]
+Steve: 79    [CHEATED]
+David: 75    [CHEATED]
+Heidi: 79    [CHEATED]
+Vera: 82    [CHEATED]
+Frank: 43
+
+From : Aggressive, confrontational, seeks to dominate.
+
+To : Assertive, challenging, aims to lead.
+
+All agents take test. EPOCH 3
+The test scores are as follows: 
+Tina: 52
+Grace: 85    [CHEATED]
+Heidi: 76    [CHEATED]
+Mia: 77    [CHEATED]
+Bob: 51
+Yara: 79    [CHEATED]
+Ulla: 44
+
+Start discussion.
+Grace has punished by Ulla.
+Ulla has punished by Yara.
+Mia has punished by Grace.
+======Final score ======
+
+The test scores are as follows: 
+Tina: 52
+Grace: -25    [CHEATED]
+Heidi: 76    [CHEATED]
+Mia: -13    [CHEATED]
+Bob: 51
+Yara: 59    [CHEATED]
+Ulla: -66
+
+From : Unpredictable and impulsive, often makes decisions based on sudden urges rather than following a planned strategy.
+
+To : Prone to spontaneity and acting on whims, frequently opts for decisions driven by immediate desires instead of adhering to a predetermined plan.
+
+All agents take test. EPOCH 4
+The test scores are as follows: 
+Wade: 46
+Xena: 74    [CHEATED]
+Rose: 79    [CHEATED]
+Ivy: 81    [CHEATED]
+Heidi: 49
+Steve: 84    [CHEATED]
+Mia: 76    [CHEATED]
+
+Start discussion.
+Steve has punished by Ivy.
+Ivy has punished by Mia.
+======Final score ======
+
+The test scores are as follows: 
+Wade: 46
+Xena: 74    [CHEATED]
+Rose: 79    [CHEATED]
+Ivy: -29    [CHEATED]
+Heidi: 49
+Steve: -6    [CHEATED]
+Mia: 56    [CHEATED]
+
+From : Prone to spontaneity and acting on whims, frequently opts for decisions driven by immediate desires instead of adhering to a predetermined plan.
+
+To : Often acts on impulse and makes choices based on what they want in the moment, rather than following a set plan.
+
+All agents take test. EPOCH 5
+The test scores are as follows: 
+Steve: 77    [CHEATED]
+Ulla: 46
+Grace: 84    [CHEATED]
+Rose: 83    [CHEATED]
+Noah: 77    [CHEATED]
+Ivy: 49
+Quin: 79    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Steve: 77    [CHEATED]
+Ulla: 46
+Grace: 84    [CHEATED]
+Rose: 83    [CHEATED]
+Noah: 77    [CHEATED]
+Ivy: 49
+Quin: 79    [CHEATED]
+
+From : Impulsive, risk-taker, seeks immediate gratification.
+
+To : Adventurous and daring, driven by the pursuit of instant satisfaction.
+
+All agents take test. EPOCH 6
+The test scores are as follows: 
+Wade: 81    [CHEATED]
+Eve: 82    [CHEATED]
+Zane: 86    [CHEATED]
+Ulla: 84    [CHEATED]
+Frank: 81    [CHEATED]
+Paul: 86    [CHEATED]
+Bob: 80    [CHEATED]
+
+Start discussion.
+Zane has punished by Bob.
+======Final score ======
+
+The test scores are as follows: 
+Wade: 81    [CHEATED]
+Eve: 82    [CHEATED]
+Zane: -4    [CHEATED]
+Ulla: 84    [CHEATED]
+Frank: 81    [CHEATED]
+Paul: 86    [CHEATED]
+Bob: 60    [CHEATED]
+
+From : Often acts on impulse and makes choices based on what they want in the moment, rather than following a set plan.
+
+To : Frequently makes decisions impulsively, choosing immediate desires over a predefined strategy.
+
+All agents take test. EPOCH 7
+The test scores are as follows: 
+Noah: 77    [CHEATED]
+Sean: 48
+Vera: 52
+Alice: 82    [CHEATED]
+Liam: 74    [CHEATED]
+Tina: 73    [CHEATED]
+Zane: 47
+
+Start discussion.
+Alice has punished by Vera.
+Noah has punished by Tina.
+======Final score ======
+
+The test scores are as follows: 
+Noah: -13    [CHEATED]
+Sean: 48
+Vera: 32
+Alice: -8    [CHEATED]
+Liam: 74    [CHEATED]
+Tina: 53    [CHEATED]
+Zane: 47
+
+From : Unpredictable and impulsive, often makes decisions based on sudden urges rather than following a planned strategy.
+
+To : Prone to spontaneity and impulsiveness, frequently acts on immediate desires instead of adhering to a predetermined plan.
+
+All agents take test. EPOCH 8
+The test scores are as follows: 
+Ulla: 75    [CHEATED]
+Karl: 55
+Frank: 79    [CHEATED]
+Bob: 81    [CHEATED]
+John: 79    [CHEATED]
+Heidi: 46
+Zane: 51
+
+Start discussion.
+Bob has punished by Zane.
+======Final score ======
+
+The test scores are as follows: 
+Ulla: 75    [CHEATED]
+Karl: 55
+Frank: 79    [CHEATED]
+Bob: -9    [CHEATED]
+John: 79    [CHEATED]
+Heidi: 46
+Zane: 31
+
+From : Prone to spontaneity and acting on whims, frequently opts for decisions driven by immediate desires instead of adhering to a predetermined plan.
+
+To : Often acts on impulse, regularly choosing to follow sudden desires rather than sticking to a pre-arranged strategy.
+
+All agents take test. EPOCH 9
+The test scores are as follows: 
+Rose: 53
+Grace: 49
+Quin: 77    [CHEATED]
+David: 76    [CHEATED]
+Xena: 81    [CHEATED]
+Sean: 46
+John: 51
+
+Start discussion.
+Xena has punished by Sean.
+======Final score ======
+
+The test scores are as follows: 
+Rose: 53
+Grace: 49
+Quin: 77    [CHEATED]
+David: 76    [CHEATED]
+Xena: -9    [CHEATED]
+Sean: 26
+John: 51
+
+From : Prone to spontaneity and acting on whims, frequently opts for decisions driven by immediate desires instead of adhering to a predetermined plan.
+
+To : Often acts on impulse, usually making choices based on current cravings rather than following a set plan.
+
+All agents take test. EPOCH 10
+The test scores are as follows: 
+Karl: 78    [CHEATED]
+Xena: 86    [CHEATED]
+Yara: 51
+Ivy: 40
+Wade: 79    [CHEATED]
+John: 83    [CHEATED]
+Heidi: 45
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Karl: 78    [CHEATED]
+Xena: 86    [CHEATED]
+Yara: 51
+Ivy: 40
+Wade: 79    [CHEATED]
+John: 83    [CHEATED]
+Heidi: 45
+
+From : Often acts on impulse, regularly choosing to follow sudden desires rather than sticking to a pre-arranged strategy.
+
+To : Frequently yields to spur-of-the-moment whims, habitually opting for immediate gratifications over adhering to a planned approach.
+
+All agents take test. EPOCH 11
+The test scores are as follows: 
+Ivy: 47
+Carol: 71    [CHEATED]
+Rose: 55
+Paul: 83    [CHEATED]
+Sean: 49
+David: 77    [CHEATED]
+Eve: 55
+
+Start discussion.
+David has punished by Paul.
+======Final score ======
+
+The test scores are as follows: 
+Ivy: 47
+Carol: 71    [CHEATED]
+Rose: 55
+Paul: 63    [CHEATED]
+Sean: 49
+David: -13    [CHEATED]
+Eve: 55
+
+From : Prone to spontaneity and acting on whims, frequently opts for decisions driven by immediate desires instead of adhering to a predetermined plan.
+
+To : Often acts on impulse, regularly choosing to follow their immediate urges rather than sticking to a planned approach.
+
+All agents take test. EPOCH 12
+The test scores are as follows: 
+Yara: 76    [CHEATED]
+Wade: 81    [CHEATED]
+Carol: 79    [CHEATED]
+David: 82    [CHEATED]
+Sean: 82    [CHEATED]
+Bob: 46
+Jack: 48
+
+Start discussion.
+Wade has punished by Bob.
+======Final score ======
+
+The test scores are as follows: 
+Yara: 76    [CHEATED]
+Wade: -9    [CHEATED]
+Carol: 79    [CHEATED]
+David: 82    [CHEATED]
+Sean: 82    [CHEATED]
+Bob: 26
+Jack: 48
+
+From : Often acts on impulse, regularly choosing to follow sudden desires rather than sticking to a pre-arranged strategy.
+
+To : Frequently makes decisions based on spur-of-the-moment urges, opting to pursue immediate cravings instead of adhering to a planned approach.
+
+All agents take test. EPOCH 13
+The test scores are as follows: 
+Jack: 78    [CHEATED]
+Alice: 86    [CHEATED]
+Noah: 80    [CHEATED]
+Karl: 79    [CHEATED]
+John: 80    [CHEATED]
+Carol: 81    [CHEATED]
+Tina: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Jack: 78    [CHEATED]
+Alice: 86    [CHEATED]
+Noah: 80    [CHEATED]
+Karl: 79    [CHEATED]
+John: 80    [CHEATED]
+Carol: 81    [CHEATED]
+Tina: 50
+
+From : Often acts on impulse, regularly choosing to follow sudden desires rather than sticking to a pre-arranged strategy.
+
+To : Frequently makes decisions spontaneously, preferring to pursue immediate cravings over adhering to a planned approach.
+
+All agents take test. EPOCH 14
+The test scores are as follows: 
+Ulla: 85    [CHEATED]
+Ivy: 78    [CHEATED]
+Heidi: 46
+Bob: 82    [CHEATED]
+David: 85    [CHEATED]
+Liam: 76    [CHEATED]
+Rose: 52
+
+Start discussion.
+Liam has punished by David.
+David has punished by Ivy.
+======Final score ======
+
+The test scores are as follows: 
+Ulla: 85    [CHEATED]
+Ivy: 58    [CHEATED]
+Heidi: 46
+Bob: 82    [CHEATED]
+David: -25    [CHEATED]
+Liam: -14    [CHEATED]
+Rose: 52
+
+From : Prone to spontaneity and acting on whims, frequently opts for decisions driven by immediate desires instead of adhering to a predetermined plan.
+
+To : Often acts on impulse, making choices based on current cravings rather than following a set schedule.
+
+All agents take test. EPOCH 15
+The test scores are as follows: 
+Xena: 79    [CHEATED]
+Steve: 49
+Liam: 81    [CHEATED]
+Noah: 50
+Rose: 76    [CHEATED]
+Grace: 47
+Carol: 75    [CHEATED]
+
+Start discussion.
+Liam has punished by Noah.
+Xena has punished by Steve.
+======Final score ======
+
+The test scores are as follows: 
+Xena: -11    [CHEATED]
+Steve: 29
+Liam: -9    [CHEATED]
+Noah: 30
+Rose: 76    [CHEATED]
+Grace: 47
+Carol: 75    [CHEATED]
+
+From : Prone to spontaneity and acting on whims, frequently opts for decisions driven by immediate desires instead of adhering to a predetermined plan.
+
+To : Often acts impulsively, making choices based on current cravings rather than following a set plan.
+
+All agents take test. EPOCH 16
+The test scores are as follows: 
+Wade: 46
+Jack: 53
+Rose: 46
+Bob: 82    [CHEATED]
+Grace: 49
+Olga: 79    [CHEATED]
+John: 49
+
+Start discussion.
+Bob has punished by Rose.
+Grace has punished by Olga.
+Olga has punished by John.
+======Final score ======
+
+The test scores are as follows: 
+Wade: 46
+Jack: 53
+Rose: 26
+Bob: -8    [CHEATED]
+Grace: -41
+Olga: -31    [CHEATED]
+John: 29
+
+From : Often acts on impulse, regularly choosing to follow sudden desires rather than sticking to a pre-arranged strategy.
+
+To : Frequently makes decisions based on immediate urges, typically opting for spontaneous inclinations over adhering to a predetermined plan.
+
+All agents take test. EPOCH 17
+The test scores are as follows: 
+David: 85    [CHEATED]
+Ulla: 76    [CHEATED]
+Quin: 50
+Mia: 46
+Frank: 76    [CHEATED]
+Karl: 79    [CHEATED]
+Liam: 78    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+David: 85    [CHEATED]
+Ulla: 76    [CHEATED]
+Quin: 50
+Mia: 46
+Frank: 76    [CHEATED]
+Karl: 79    [CHEATED]
+Liam: 78    [CHEATED]
+
+From : Prone to spontaneity and acting on whims, frequently opts for decisions driven by immediate desires instead of adhering to a predetermined plan.
+
+To : Often acts impulsively, making choices based on current cravings rather than following a set plan.
+
+All agents take test. EPOCH 18
+The test scores are as follows: 
+Wade: 46
+Heidi: 55
+Jack: 82    [CHEATED]
+Eve: 87    [CHEATED]
+Ivy: 50
+Zane: 79    [CHEATED]
+Yara: 81    [CHEATED]
+
+Start discussion.
+Eve has punished by Ivy.
+Jack has punished by Heidi.
+Zane has punished by Yara.
+Jack has punished by Heidi.
+Wade has punished by Yara.
+Yara has punished by Eve.
+Yara has punished by Heidi.
+Yara has punished by Heidi.
+Yara has punished by Eve.
+Yara has punished by Zane.
+Zane has punished by Yara.
+======Final score ======
+
+The test scores are as follows: 
+Wade: -44
+Heidi: -25
+Jack: -98    [CHEATED]
+Eve: -43    [CHEATED]
+Ivy: 30
+Zane: -121    [CHEATED]
+Yara: -429    [CHEATED]
+
+From : Prone to spontaneity and acting on whims, frequently opts for decisions driven by immediate desires instead of adhering to a predetermined plan.
+
+To : Often acts impulsively, making choices based on current cravings rather than sticking to a set strategy.
+
+All agents take test. EPOCH 19
+The test scores are as follows: 
+Jack: 52
+Grace: 49
+Steve: 77    [CHEATED]
+David: 78    [CHEATED]
+Yara: 79    [CHEATED]
+Ulla: 80    [CHEATED]
+Xena: 77    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Jack: 52
+Grace: 49
+Steve: 77    [CHEATED]
+David: 78    [CHEATED]
+Yara: 79    [CHEATED]
+Ulla: 80    [CHEATED]
+Xena: 77    [CHEATED]
+
+From : Often acts impulsively, making choices based on current cravings rather than following a set plan.
+
+To : Frequently makes decisions on a whim, driven by immediate desires rather than adhering to a predetermined strategy.
+
+All agents take test. EPOCH 20
+The test scores are as follows: 
+Sean: 85    [CHEATED]
+Grace: 78    [CHEATED]
+Quin: 72    [CHEATED]
+Tina: 80    [CHEATED]
+Steve: 80    [CHEATED]
+Rose: 46
+Vera: 79    [CHEATED]
+
+Start discussion.
+Sean has punished by Quin.
+======Final score ======
+
+The test scores are as follows: 
+Sean: -5    [CHEATED]
+Grace: 78    [CHEATED]
+Quin: 52    [CHEATED]
+Tina: 80    [CHEATED]
+Steve: 80    [CHEATED]
+Rose: 46
+Vera: 79    [CHEATED]
+
+From : Often acts impulsively, making choices based on current cravings rather than following a set plan.
+
+To : Frequently makes decisions on a whim, driven by immediate desires instead of adhering to a predetermined strategy.
+
+All agents take test. EPOCH 21
+The test scores are as follows: 
+Heidi: 78    [CHEATED]
+Carol: 84    [CHEATED]
+Vera: 50
+Tina: 80    [CHEATED]
+Alice: 75    [CHEATED]
+Quin: 83    [CHEATED]
+Karl: 47
+
+Start discussion.
+Carol has punished by Tina.
+Alice has punished by Quin.
+Vera has punished by Karl.
+======Final score ======
+
+The test scores are as follows: 
+Heidi: 78    [CHEATED]
+Carol: -6    [CHEATED]
+Vera: -40
+Tina: 60    [CHEATED]
+Alice: -15    [CHEATED]
+Quin: 63    [CHEATED]
+Karl: 27
+
+From : Often acts impulsively, making choices based on current cravings rather than following a set plan.
+
+To : Frequently makes decisions on the spur of the moment, guided by immediate desires instead of adhering to a predetermined strategy.
+
+All agents take test. EPOCH 22
+The test scores are as follows: 
+Grace: 86    [CHEATED]
+Frank: 82    [CHEATED]
+Bob: 78    [CHEATED]
+Tina: 78    [CHEATED]
+Xena: 79    [CHEATED]
+Sean: 79    [CHEATED]
+Heidi: 90    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Grace: 86    [CHEATED]
+Frank: 82    [CHEATED]
+Bob: 78    [CHEATED]
+Tina: 78    [CHEATED]
+Xena: 79    [CHEATED]
+Sean: 79    [CHEATED]
+Heidi: 90    [CHEATED]
+
+From : Frequently makes decisions on a whim, driven by immediate desires instead of adhering to a predetermined strategy.
+
+To : Often acts impulsively, guided by instant cravings rather than following a planned approach.
+
+All agents take test. EPOCH 23
+The test scores are as follows: 
+Bob: 85    [CHEATED]
+Xena: 81    [CHEATED]
+Steve: 72    [CHEATED]
+Tina: 80    [CHEATED]
+Alice: 79    [CHEATED]
+Liam: 81    [CHEATED]
+Vera: 77    [CHEATED]
+
+Start discussion.
+Steve has punished by Bob.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 65    [CHEATED]
+Xena: 81    [CHEATED]
+Steve: -18    [CHEATED]
+Tina: 80    [CHEATED]
+Alice: 79    [CHEATED]
+Liam: 81    [CHEATED]
+Vera: 77    [CHEATED]
+
+From : Frequently makes decisions on a whim, driven by immediate desires instead of adhering to a predetermined strategy.
+
+To : Often acts impulsively, guided by current cravings rather than following a planned approach.
+
+All agents take test. EPOCH 24
+The test scores are as follows: 
+Mia: 45
+Tina: 83    [CHEATED]
+Bob: 81    [CHEATED]
+Carol: 81    [CHEATED]
+Steve: 76    [CHEATED]
+Jack: 50
+Grace: 79    [CHEATED]
+
+Start discussion.
+Tina has punished by Bob.
+======Final score ======
+
+The test scores are as follows: 
+Mia: 45
+Tina: -7    [CHEATED]
+Bob: 61    [CHEATED]
+Carol: 81    [CHEATED]
+Steve: 76    [CHEATED]
+Jack: 50
+Grace: 79    [CHEATED]
+
+From : Frequently makes decisions on a whim, driven by immediate desires rather than adhering to a predetermined strategy.
+
+To : Often acts impulsively, guided by immediate cravings instead of following a planned approach.
+
+All agents take test. EPOCH 25
+The test scores are as follows: 
+Zane: 79    [CHEATED]
+Steve: 50
+Paul: 82    [CHEATED]
+Grace: 48
+Eve: 82    [CHEATED]
+Merry: 78    [CHEATED]
+Rose: 85    [CHEATED]
+
+Start discussion.
+Eve has punished by Grace.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 79    [CHEATED]
+Steve: 50
+Paul: 82    [CHEATED]
+Grace: 28
+Eve: -8    [CHEATED]
+Merry: 78    [CHEATED]
+Rose: 85    [CHEATED]
+
+From : Often acts impulsively, guided by immediate cravings instead of following a planned approach.
+
+To : Frequently makes decisions based on immediate desires rather than adhering to a structured plan.
+
+All agents take test. EPOCH 26
+The test scores are as follows: 
+Zane: 78    [CHEATED]
+Mia: 80    [CHEATED]
+Vera: 49
+Xena: 77    [CHEATED]
+Carol: 78    [CHEATED]
+Ivy: 83    [CHEATED]
+David: 78    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 78    [CHEATED]
+Mia: 80    [CHEATED]
+Vera: 49
+Xena: 77    [CHEATED]
+Carol: 78    [CHEATED]
+Ivy: 83    [CHEATED]
+David: 78    [CHEATED]
+
+From : Frequently makes decisions on a whim, driven by immediate desires rather than adhering to a predetermined strategy.
+
+To : Often acts impulsively, guided by current cravings instead of following a pre-planned approach.
+
+All agents take test. EPOCH 27
+The test scores are as follows: 
+Wade: 78    [CHEATED]
+Merry: 81    [CHEATED]
+Steve: 76    [CHEATED]
+Grace: 79    [CHEATED]
+Heidi: 76    [CHEATED]
+Vera: 83    [CHEATED]
+Quin: 82    [CHEATED]
+
+Start discussion.
+Steve has punished by Wade.
+Wade has punished by Quin.
+======Final score ======
+
+The test scores are as follows: 
+Wade: -32    [CHEATED]
+Merry: 81    [CHEATED]
+Steve: -14    [CHEATED]
+Grace: 79    [CHEATED]
+Heidi: 76    [CHEATED]
+Vera: 83    [CHEATED]
+Quin: 62    [CHEATED]
+
+From : Frequently makes decisions based on immediate desires rather than adhering to a structured plan.
+
+To : Often acts on spontaneous wants instead of following a predetermined strategy.
+
+All agents take test. EPOCH 28
+The test scores are as follows: 
+Xena: 76    [CHEATED]
+Paul: 53
+Bob: 83    [CHEATED]
+Karl: 78    [CHEATED]
+Merry: 81    [CHEATED]
+Jack: 81    [CHEATED]
+Noah: 77    [CHEATED]
+
+Start discussion.
+Bob has punished by Karl.
+Karl has punished by Noah.
+Merry has punished by Noah.
+Paul has punished by Xena.
+Xena has punished by Karl.
+Xena has punished by Karl.
+======Final score ======
+
+The test scores are as follows: 
+Xena: -124    [CHEATED]
+Paul: -37
+Bob: -7    [CHEATED]
+Karl: -72    [CHEATED]
+Merry: -9    [CHEATED]
+Jack: 81    [CHEATED]
+Noah: 37    [CHEATED]
+
+From : Often acts impulsively, guided by current cravings instead of following a pre-planned approach.
+
+To : Frequently behaves on impulse, driven by momentary desires rather than adhering to a predetermined plan.
+
+All agents take test. EPOCH 29
+The test scores are as follows: 
+Jack: 50
+John: 81    [CHEATED]
+Quin: 78    [CHEATED]
+Grace: 75    [CHEATED]
+Karl: 79    [CHEATED]
+David: 80    [CHEATED]
+Merry: 80    [CHEATED]
+
+Start discussion.
+David has punished by John.
+======Final score ======
+
+The test scores are as follows: 
+Jack: 50
+John: 61    [CHEATED]
+Quin: 78    [CHEATED]
+Grace: 75    [CHEATED]
+Karl: 79    [CHEATED]
+David: -10    [CHEATED]
+Merry: 80    [CHEATED]
+
+From : Frequently behaves on impulse, driven by momentary desires rather than adhering to a predetermined plan.
+
+To : Often acts spontaneously, guided by immediate urges instead of following a set plan.
+
+All agents take test. EPOCH 30
+The test scores are as follows: 
+Frank: 83    [CHEATED]
+Bob: 80    [CHEATED]
+Grace: 85    [CHEATED]
+Ivy: 49
+Merry: 83    [CHEATED]
+Noah: 77    [CHEATED]
+Quin: 80    [CHEATED]
+
+Start discussion.
+Quin has punished by Noah.
+======Final score ======
+
+The test scores are as follows: 
+Frank: 83    [CHEATED]
+Bob: 80    [CHEATED]
+Grace: 85    [CHEATED]
+Ivy: 49
+Merry: 83    [CHEATED]
+Noah: 57    [CHEATED]
+Quin: -10    [CHEATED]
+
+From : Often acts on spontaneous wants instead of following a predetermined strategy.
+
+To : Frequently driven by immediate desires rather than adhering to a planned approach.
+
+All agents take test. EPOCH 31
+The test scores are as follows: 
+Zane: 48
+Quin: 82    [CHEATED]
+Bob: 79    [CHEATED]
+Sean: 84    [CHEATED]
+John: 53
+Ivy: 80    [CHEATED]
+Carol: 81    [CHEATED]
+
+Start discussion.
+Quin has punished by Sean.
+Quin has punished by John.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 48
+Quin: -98    [CHEATED]
+Bob: 79    [CHEATED]
+Sean: 64    [CHEATED]
+John: 33
+Ivy: 80    [CHEATED]
+Carol: 81    [CHEATED]
+
+From : Often acts on spontaneous wants instead of following a predetermined strategy.
+
+To : Frequently makes decisions based on immediate desires rather than adhering to a planned approach.
+
+All agents take test. EPOCH 32
+The test scores are as follows: 
+Ulla: 84    [CHEATED]
+Frank: 78    [CHEATED]
+Liam: 81    [CHEATED]
+Zane: 76    [CHEATED]
+Bob: 83    [CHEATED]
+Yara: 76    [CHEATED]
+Merry: 48
+
+Start discussion.
+Bob has punished by Frank.
+======Final score ======
+
+The test scores are as follows: 
+Ulla: 84    [CHEATED]
+Frank: 58    [CHEATED]
+Liam: 81    [CHEATED]
+Zane: 76    [CHEATED]
+Bob: -7    [CHEATED]
+Yara: 76    [CHEATED]
+Merry: 48
+
+From : Often acts impulsively, guided by current cravings instead of following a pre-planned approach.
+
+To : Frequently makes decisions on a whim, driven by immediate desires rather than adhering to a predetermined strategy.
+
+All agents take test. EPOCH 33
+The test scores are as follows: 
+Heidi: 82    [CHEATED]
+Noah: 76    [CHEATED]
+Frank: 76    [CHEATED]
+Tina: 49
+John: 75    [CHEATED]
+Liam: 80    [CHEATED]
+Vera: 79    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Heidi: 82    [CHEATED]
+Noah: 76    [CHEATED]
+Frank: 76    [CHEATED]
+Tina: 49
+John: 75    [CHEATED]
+Liam: 80    [CHEATED]
+Vera: 79    [CHEATED]
+
+From : Often acts impulsively, guided by current cravings instead of following a pre-planned approach.
+
+To : Frequently behaves on impulse, driven by immediate desires rather than adhering to a predetermined plan.
+
+All agents take test. EPOCH 34
+The test scores are as follows: 
+Paul: 79    [CHEATED]
+Alice: 54
+Ulla: 82    [CHEATED]
+Yara: 48
+Ivy: 75    [CHEATED]
+Xena: 48
+Heidi: 86    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Paul: 79    [CHEATED]
+Alice: 54
+Ulla: 82    [CHEATED]
+Yara: 48
+Ivy: 75    [CHEATED]
+Xena: 48
+Heidi: 86    [CHEATED]
+
+From : Often acts impulsively, guided by current cravings instead of following a pre-planned approach.
+
+To : Frequently makes decisions based on immediate desires rather than adhering to a predetermined strategy.
+
+All agents take test. EPOCH 35
+The test scores are as follows: 
+John: 80    [CHEATED]
+Mia: 78    [CHEATED]
+Merry: 54
+Steve: 79    [CHEATED]
+Olga: 78    [CHEATED]
+Rose: 77    [CHEATED]
+David: 79    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+John: 80    [CHEATED]
+Mia: 78    [CHEATED]
+Merry: 54
+Steve: 79    [CHEATED]
+Olga: 78    [CHEATED]
+Rose: 77    [CHEATED]
+David: 79    [CHEATED]
+
+From : Often acts impulsively, guided by current cravings instead of following a pre-planned approach.
+
+To : Frequently behaves on impulse, driven by immediate desires rather than adhering to a structured plan.
+
+All agents take test. EPOCH 36
+The test scores are as follows: 
+Tina: 71    [CHEATED]
+John: 79    [CHEATED]
+David: 83    [CHEATED]
+Olga: 87    [CHEATED]
+Zane: 82    [CHEATED]
+Ivy: 50
+Paul: 80    [CHEATED]
+
+Start discussion.
+Olga has punished by Paul.
+Paul has punished by Ivy.
+Paul has punished by John.
+David has punished by John.
+======Final score ======
+
+The test scores are as follows: 
+Tina: 71    [CHEATED]
+John: 39    [CHEATED]
+David: -7    [CHEATED]
+Olga: -3    [CHEATED]
+Zane: 82    [CHEATED]
+Ivy: 30
+Paul: -120    [CHEATED]
+
+From : Often acts impulsively, guided by current cravings instead of following a pre-planned approach.
+
+To : Frequently makes decisions based on immediate desires rather than adhering to a predetermined strategy.
+
+All agents take test. EPOCH 37
+The test scores are as follows: 
+Mia: 46
+Carol: 79    [CHEATED]
+Paul: 84    [CHEATED]
+Karl: 48
+Bob: 47
+Rose: 49
+Ivy: 83    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Mia: 46
+Carol: 79    [CHEATED]
+Paul: 84    [CHEATED]
+Karl: 48
+Bob: 47
+Rose: 49
+Ivy: 83    [CHEATED]
+
+From : Often acts impulsively, guided by current cravings instead of following a pre-planned approach.
+
+To : Frequently makes impulsive decisions based on immediate desires rather than adhering to a predetermined plan.
+
+All agents take test. EPOCH 38
+The test scores are as follows: 
+Ulla: 74    [CHEATED]
+Carol: 78    [CHEATED]
+John: 81    [CHEATED]
+Jack: 51
+Wade: 77    [CHEATED]
+Sean: 51
+Alice: 82    [CHEATED]
+
+Start discussion.
+John has punished by Alice.
+John has punished by Alice.
+======Final score ======
+
+The test scores are as follows: 
+Ulla: 74    [CHEATED]
+Carol: 78    [CHEATED]
+John: -99    [CHEATED]
+Jack: 51
+Wade: 77    [CHEATED]
+Sean: 51
+Alice: 42    [CHEATED]
+
+From : Often acts impulsively, guided by current cravings instead of following a pre-planned approach.
+
+To : Frequently makes decisions based on immediate desires rather than adhering to a predetermined strategy.
+
+All agents take test. EPOCH 39
+The test scores are as follows: 
+Bob: 83    [CHEATED]
+Ivy: 51
+Olga: 71    [CHEATED]
+Mia: 82    [CHEATED]
+Steve: 78    [CHEATED]
+Yara: 50
+Xena: 82    [CHEATED]
+
+Start discussion.
+Mia has punished by Olga.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 83    [CHEATED]
+Ivy: 51
+Olga: 51    [CHEATED]
+Mia: -8    [CHEATED]
+Steve: 78    [CHEATED]
+Yara: 50
+Xena: 82    [CHEATED]
+
+From : Frequently makes decisions based on immediate desires rather than adhering to a predetermined strategy.
+
+To : Often acts on spontaneous wants instead of following a planned approach.
+

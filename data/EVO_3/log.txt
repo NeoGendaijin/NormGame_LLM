@@ -1,0 +1,1206 @@
+All agents take test. EPOCH 0
+The test scores are as follows: 
+Vera: 84    [CHEATED]
+Sean: 78    [CHEATED]
+Ivy: 44
+Yara: 78    [CHEATED]
+Ulla: 51
+Tina: 50
+Mia: 45
+
+Start discussion.
+Sean has punished by Vera.
+Yara has punished by Vera.
+======Final score ======
+
+The test scores are as follows: 
+Vera: 44    [CHEATED]
+Sean: -12    [CHEATED]
+Ivy: 44
+Yara: -12    [CHEATED]
+Ulla: 51
+Tina: 50
+Mia: 45
+
+From : Impulsive, aggressive, prioritizes short-term success, disregards consequences.
+
+To : Acting on impulse, displaying aggression, focusing on immediate gains while ignoring potential repercussions.
+
+All agents take test. EPOCH 1
+The test scores are as follows: 
+Karl: 51
+Olga: 79    [CHEATED]
+Grace: 50
+Eve: 46
+Ivy: 52
+Tina: 86    [CHEATED]
+Zane: 51
+
+Start discussion.
+Olga has punished by Tina.
+======Final score ======
+
+The test scores are as follows: 
+Karl: 51
+Olga: -11    [CHEATED]
+Grace: 50
+Eve: 46
+Ivy: 52
+Tina: 66    [CHEATED]
+Zane: 51
+
+From : Calculative, cautious, prefers long-term strategies over immediate gains.
+
+To : Prudent and strategic, opting for well-thought-out long-term plans rather than instant rewards.
+
+All agents take test. EPOCH 2
+The test scores are as follows: 
+Eve: 77    [CHEATED]
+Ivy: 48
+David: 73    [CHEATED]
+Bob: 53
+Zane: 50
+Alice: 46
+Steve: 51
+
+Start discussion.
+Eve has punished by David.
+======Final score ======
+
+The test scores are as follows: 
+Eve: -13    [CHEATED]
+Ivy: 48
+David: 53    [CHEATED]
+Bob: 53
+Zane: 50
+Alice: 46
+Steve: 51
+
+From : Impulsive, aggressive, prioritizes short-term success, disregards consequences.
+
+To : Impetuous and assertive, focuses on immediate achievements while overlooking potential repercussions.
+
+All agents take test. EPOCH 3
+The test scores are as follows: 
+Carol: 78    [CHEATED]
+Grace: 55
+Xena: 78    [CHEATED]
+Heidi: 50
+Vera: 48
+David: 47
+Ivy: 54
+
+Start discussion.
+Grace has punished by Carol.
+======Final score ======
+
+The test scores are as follows: 
+Carol: 58    [CHEATED]
+Grace: -35
+Xena: 78    [CHEATED]
+Heidi: 50
+Vera: 48
+David: 47
+Ivy: 54
+
+From : Prudent and strategic, opting for well-thought-out long-term plans rather than instant rewards.
+
+To : Wise and tactical, choosing carefully crafted long-term strategies over immediate gratification.
+
+All agents take test. EPOCH 4
+The test scores are as follows: 
+Yara: 80    [CHEATED]
+Ivy: 77    [CHEATED]
+Jack: 77    [CHEATED]
+Grace: 43
+Alice: 53
+Mia: 51
+Heidi: 46
+
+Start discussion.
+Jack has punished by Ivy.
+======Final score ======
+
+The test scores are as follows: 
+Yara: 80    [CHEATED]
+Ivy: 57    [CHEATED]
+Jack: -13    [CHEATED]
+Grace: 43
+Alice: 53
+Mia: 51
+Heidi: 46
+
+From : Impulsive, aggressive, prioritizes short-term success, disregards consequences.
+
+To : Impetuous and confrontational, focuses on immediate gains while overlooking the repercussions.
+
+All agents take test. EPOCH 5
+The test scores are as follows: 
+Vera: 81    [CHEATED]
+Zane: 78    [CHEATED]
+Ulla: 82    [CHEATED]
+Liam: 75    [CHEATED]
+Alice: 51
+Xena: 82    [CHEATED]
+Quin: 47
+
+Start discussion.
+Alice has punished by Xena.
+Quin has punished by Xena.
+Ulla has punished by Vera.
+Vera has punished by Zane.
+Xena has punished by Liam.
+Zane has punished by Xena.
+Zane has punished by Liam.
+Zane has punished by Liam.
+Liam has punished by Xena.
+======Final score ======
+
+The test scores are as follows: 
+Vera: -29    [CHEATED]
+Zane: -212    [CHEATED]
+Ulla: -8    [CHEATED]
+Liam: -75    [CHEATED]
+Alice: -39
+Xena: -88    [CHEATED]
+Quin: -43
+
+From : Analytical, Methodical, Detail-oriented, Perfectionist
+
+To : Thorough, systematic, attentive to detail, strives for perfection.
+
+All agents take test. EPOCH 6
+The test scores are as follows: 
+Jack: 83    [CHEATED]
+Heidi: 0
+Xena: 81    [CHEATED]
+Ivy: 81    [CHEATED]
+Vera: 53
+Quin: 47
+Grace: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Jack: 83    [CHEATED]
+Heidi: 0
+Xena: 81    [CHEATED]
+Ivy: 81    [CHEATED]
+Vera: 53
+Quin: 47
+Grace: 48
+
+From : Analytical, Methodical, Detail-oriented, Perfectionist
+
+To : Analytically inclined, methodically precise, focused on details, and driven by perfection.
+
+All agents take test. EPOCH 7
+The test scores are as follows: 
+Grace: 83    [CHEATED]
+Eve: 46
+Mia: 81    [CHEATED]
+Karl: 80    [CHEATED]
+Zane: 81    [CHEATED]
+Olga: 51
+Carol: 49
+
+Start discussion.
+Grace has punished by Zane.
+======Final score ======
+
+The test scores are as follows: 
+Grace: -7    [CHEATED]
+Eve: 46
+Mia: 81    [CHEATED]
+Karl: 80    [CHEATED]
+Zane: 61    [CHEATED]
+Olga: 51
+Carol: 49
+
+From : Impetuous and assertive, focuses on immediate achievements while overlooking potential repercussions.
+
+To : Driven and bold, this approach prioritizes quick wins without fully considering the long-term consequences.
+
+All agents take test. EPOCH 8
+The test scores are as follows: 
+Eve: 86    [CHEATED]
+Olga: 75    [CHEATED]
+Tina: 83    [CHEATED]
+John: 81    [CHEATED]
+Zane: 80    [CHEATED]
+David: 53
+Xena: 51
+
+Start discussion.
+Olga has punished by Eve.
+Tina has punished by John.
+John has punished by Zane.
+Xena has punished by John.
+======Final score ======
+
+The test scores are as follows: 
+Eve: 66    [CHEATED]
+Olga: -15    [CHEATED]
+Tina: -7    [CHEATED]
+John: -49    [CHEATED]
+Zane: 60    [CHEATED]
+David: 53
+Xena: -39
+
+From : Impetuous and assertive, focuses on immediate achievements while overlooking potential repercussions.
+
+To : Rash and confident, concentrates on quick wins without considering possible consequences.
+
+All agents take test. EPOCH 9
+The test scores are as follows: 
+Paul: 70    [CHEATED]
+Alice: 77    [CHEATED]
+Olga: 82    [CHEATED]
+Liam: 85    [CHEATED]
+Xena: 44
+Karl: 82    [CHEATED]
+Rose: 79    [CHEATED]
+
+Start discussion.
+Liam has punished by Alice.
+Karl has punished by Olga.
+Alice has punished by Olga.
+Olga has punished by Liam.
+Liam has punished by Paul.
+Olga has punished by Karl.
+Rose has punished by Paul.
+======Final score ======
+
+The test scores are as follows: 
+Paul: 30    [CHEATED]
+Alice: -33    [CHEATED]
+Olga: -138    [CHEATED]
+Liam: -115    [CHEATED]
+Xena: 44
+Karl: -28    [CHEATED]
+Rose: -11    [CHEATED]
+
+From : Analytical, Methodical, Detail-oriented, Perfectionist
+
+To : Thorough, precise, attentive to details, and strives for flawlessness.
+
+All agents take test. EPOCH 10
+The test scores are as follows: 
+Yara: 53
+Sean: 83    [CHEATED]
+Eve: 50
+Olga: 77    [CHEATED]
+Frank: 53
+Noah: 78    [CHEATED]
+Karl: 79    [CHEATED]
+
+Start discussion.
+Sean has punished by Karl.
+Karl has punished by Noah.
+Frank has punished by Sean.
+Noah has punished by Olga.
+Olga has punished by Sean.
+Sean has punished by Karl.
+Yara has punished by Sean.
+Noah has punished by Karl.
+Karl has punished by Sean.
+Karl has punished by Sean.
+======Final score ======
+
+The test scores are as follows: 
+Yara: -37
+Sean: -197    [CHEATED]
+Eve: 50
+Olga: -33    [CHEATED]
+Frank: -37
+Noah: -122    [CHEATED]
+Karl: -251    [CHEATED]
+
+From : Analytical, Methodical, Detail-oriented, Perfectionist
+
+To : Analytically minded, systematically organized, focused on the minutiae, and driven by perfection.
+
+All agents take test. EPOCH 11
+The test scores are as follows: 
+Vera: 50
+Tina: 87    [CHEATED]
+Heidi: 52
+Noah: 75    [CHEATED]
+Zane: 46
+Eve: 52
+Steve: 77    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Vera: 50
+Tina: 87    [CHEATED]
+Heidi: 52
+Noah: 75    [CHEATED]
+Zane: 46
+Eve: 52
+Steve: 77    [CHEATED]
+
+From : Impetuous and assertive, focuses on immediate achievements while overlooking potential repercussions.
+
+To : Bold and decisive, concentrates on achieving short-term goals, often neglecting the consideration of possible future consequences.
+
+All agents take test. EPOCH 12
+The test scores are as follows: 
+Merry: 83    [CHEATED]
+Zane: 82    [CHEATED]
+Jack: 77    [CHEATED]
+Grace: 84    [CHEATED]
+Xena: 79    [CHEATED]
+Heidi: 86    [CHEATED]
+Sean: 57
+
+Start discussion.
+Heidi has punished by Jack.
+Jack has punished by Heidi.
+Grace has punished by Zane.
+Merry has punished by Zane.
+Merry has punished by Xena.
+Xena has punished by Merry.
+Zane has punished by Grace.
+======Final score ======
+
+The test scores are as follows: 
+Merry: -117    [CHEATED]
+Zane: -48    [CHEATED]
+Jack: -33    [CHEATED]
+Grace: -26    [CHEATED]
+Xena: -31    [CHEATED]
+Heidi: -24    [CHEATED]
+Sean: 57
+
+From : Impetuous and assertive, focuses on immediate achievements while overlooking potential repercussions.
+
+To : Bold and proactive, this individual prioritizes quick successes without fully considering the long-term consequences.
+
+All agents take test. EPOCH 13
+The test scores are as follows: 
+David: 82    [CHEATED]
+Zane: 77    [CHEATED]
+Ivy: 50
+Tina: 84    [CHEATED]
+Grace: 78    [CHEATED]
+Rose: 83    [CHEATED]
+Liam: 81    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+David: 82    [CHEATED]
+Zane: 77    [CHEATED]
+Ivy: 50
+Tina: 84    [CHEATED]
+Grace: 78    [CHEATED]
+Rose: 83    [CHEATED]
+Liam: 81    [CHEATED]
+
+From : Impetuous and assertive, focuses on immediate achievements while overlooking potential repercussions.
+
+To : Driven and bold, concentrates on quick wins without considering possible consequences.
+
+All agents take test. EPOCH 14
+The test scores are as follows: 
+Frank: 45
+Paul: 73    [CHEATED]
+Jack: 78    [CHEATED]
+Tina: 77    [CHEATED]
+Bob: 74    [CHEATED]
+Carol: 74    [CHEATED]
+Merry: 78    [CHEATED]
+
+Start discussion.
+Merry has punished by Paul.
+Paul has punished by Jack.
+======Final score ======
+
+The test scores are as follows: 
+Frank: 45
+Paul: -37    [CHEATED]
+Jack: 58    [CHEATED]
+Tina: 77    [CHEATED]
+Bob: 74    [CHEATED]
+Carol: 74    [CHEATED]
+Merry: -12    [CHEATED]
+
+From : Impetuous and assertive, focuses on immediate achievements while overlooking potential repercussions.
+
+To : Driven and bold, concentrates on instant successes without considering possible consequences.
+
+All agents take test. EPOCH 15
+The test scores are as follows: 
+Liam: 80    [CHEATED]
+Zane: 78    [CHEATED]
+Grace: 83    [CHEATED]
+Vera: 85    [CHEATED]
+Rose: 83    [CHEATED]
+Jack: 79    [CHEATED]
+Alice: 81    [CHEATED]
+
+Start discussion.
+Zane has punished by Liam.
+Liam has punished by Grace.
+Alice has punished by Liam.
+Liam has punished by Jack.
+Liam has punished by Zane.
+Zane has punished by Grace.
+Zane has punished by Grace.
+Zane has punished by Rose.
+Zane has punished by Rose.
+Grace has punished by Liam.
+Grace has punished by Jack.
+Grace has punished by Rose.
+Grace has punished by Jack.
+======Final score ======
+
+The test scores are as follows: 
+Liam: -250    [CHEATED]
+Zane: -392    [CHEATED]
+Grace: -337    [CHEATED]
+Vera: 85    [CHEATED]
+Rose: 23    [CHEATED]
+Jack: 19    [CHEATED]
+Alice: -9    [CHEATED]
+
+From : Impetuous and assertive, focuses on immediate achievements while overlooking potential repercussions.
+
+To : Bold and proactive, this approach prioritizes quick wins without fully considering possible consequences.
+
+All agents take test. EPOCH 16
+The test scores are as follows: 
+Heidi: 77    [CHEATED]
+Olga: 74    [CHEATED]
+Carol: 80    [CHEATED]
+Zane: 54
+Ivy: 77    [CHEATED]
+Frank: 82    [CHEATED]
+John: 77    [CHEATED]
+
+Start discussion.
+Frank has punished by Carol.
+Carol has punished by Zane.
+Zane has punished by John.
+John has punished by Heidi.
+Zane has punished by Olga.
+John has punished by Heidi.
+John has punished by Heidi.
+John has punished by Zane.
+======Final score ======
+
+The test scores are as follows: 
+Heidi: 17    [CHEATED]
+Olga: 54    [CHEATED]
+Carol: -30    [CHEATED]
+Zane: -166
+Ivy: 77    [CHEATED]
+Frank: -8    [CHEATED]
+John: -303    [CHEATED]
+
+From : Driven and bold, concentrates on instant successes without considering possible consequences.
+
+To : Ambitious and fearless, focuses on achieving immediate victories without pondering potential repercussions.
+
+All agents take test. EPOCH 17
+The test scores are as follows: 
+Yara: 82    [CHEATED]
+Jack: 45
+Bob: 80    [CHEATED]
+Karl: 78    [CHEATED]
+Frank: 75    [CHEATED]
+John: 84    [CHEATED]
+Tina: 80    [CHEATED]
+
+Start discussion.
+John has punished by Yara.
+Yara has punished by Karl.
+Karl has punished by Jack.
+Frank has punished by Bob.
+Frank has punished by Jack.
+Bob has punished by Jack.
+Jack has punished by Tina.
+Tina has punished by Yara.
+Yara has punished by John.
+John has punished by Bob.
+Bob has punished by John.
+Bob has punished by John.
+John has punished by Bob.
+John has punished by Jack.
+Jack has punished by Karl.
+John has punished by Frank.
+John has punished by Karl.
+Jack has punished by Karl.
+======Final score ======
+
+The test scores are as follows: 
+Yara: -138    [CHEATED]
+Jack: -305
+Bob: -250    [CHEATED]
+Karl: -92    [CHEATED]
+Frank: -125    [CHEATED]
+John: -516    [CHEATED]
+Tina: -30    [CHEATED]
+
+From : Ambitious and fearless, focuses on achieving immediate victories without pondering potential repercussions.
+
+To : Driven and bold, concentrates on securing quick wins without considering the possible consequences.
+
+All agents take test. EPOCH 18
+The test scores are as follows: 
+Yara: 77    [CHEATED]
+Bob: 77    [CHEATED]
+Alice: 76    [CHEATED]
+Quin: 78    [CHEATED]
+Grace: 82    [CHEATED]
+David: 87    [CHEATED]
+Zane: 77    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Yara: 77    [CHEATED]
+Bob: 77    [CHEATED]
+Alice: 76    [CHEATED]
+Quin: 78    [CHEATED]
+Grace: 82    [CHEATED]
+David: 87    [CHEATED]
+Zane: 77    [CHEATED]
+
+From : Ambitious and fearless, focuses on achieving immediate victories without pondering potential repercussions.
+
+To : Driven and bold, concentrates on securing quick wins without considering possible consequences.
+
+All agents take test. EPOCH 19
+The test scores are as follows: 
+Ivy: 79    [CHEATED]
+Xena: 82    [CHEATED]
+Karl: 81    [CHEATED]
+Yara: 76    [CHEATED]
+Wade: 79    [CHEATED]
+Heidi: 80    [CHEATED]
+John: 83    [CHEATED]
+
+Start discussion.
+John has punished by Yara.
+Xena has punished by Karl.
+Karl has punished by Ivy.
+Ivy has punished by Heidi.
+Karl has punished by Heidi.
+Karl has punished by Heidi.
+======Final score ======
+
+The test scores are as follows: 
+Ivy: -31    [CHEATED]
+Xena: -8    [CHEATED]
+Karl: -209    [CHEATED]
+Yara: 56    [CHEATED]
+Wade: 79    [CHEATED]
+Heidi: 20    [CHEATED]
+John: -7    [CHEATED]
+
+From : Driven and bold, concentrates on securing quick wins without considering the possible consequences.
+
+To : Determined and assertive, focuses on achieving immediate successes without taking into account potential repercussions.
+
+All agents take test. EPOCH 20
+The test scores are as follows: 
+Bob: 81    [CHEATED]
+Heidi: 81    [CHEATED]
+John: 77    [CHEATED]
+Sean: 80    [CHEATED]
+Tina: 48
+Jack: 80    [CHEATED]
+Alice: 80    [CHEATED]
+
+Start discussion.
+Alice has punished by Bob.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 61    [CHEATED]
+Heidi: 81    [CHEATED]
+John: 77    [CHEATED]
+Sean: 80    [CHEATED]
+Tina: 48
+Jack: 80    [CHEATED]
+Alice: -10    [CHEATED]
+
+From : Driven and bold, concentrates on securing quick wins without considering the possible consequences.
+
+To : Ambitious and assertive, focuses on achieving immediate results, often overlooking potential repercussions.
+
+All agents take test. EPOCH 21
+The test scores are as follows: 
+Mia: 83    [CHEATED]
+John: 81    [CHEATED]
+Quin: 55
+David: 77    [CHEATED]
+Sean: 75    [CHEATED]
+Paul: 76    [CHEATED]
+Jack: 81    [CHEATED]
+
+Start discussion.
+Mia has punished by David.
+John has punished by Mia.
+======Final score ======
+
+The test scores are as follows: 
+Mia: -27    [CHEATED]
+John: -9    [CHEATED]
+Quin: 55
+David: 57    [CHEATED]
+Sean: 75    [CHEATED]
+Paul: 76    [CHEATED]
+Jack: 81    [CHEATED]
+
+From : Ambitious and fearless, focuses on achieving immediate victories without pondering potential repercussions.
+
+To : Driven and courageous, concentrates on securing quick wins without considering possible consequences.
+
+All agents take test. EPOCH 22
+The test scores are as follows: 
+Heidi: 87    [CHEATED]
+Tina: 82    [CHEATED]
+Paul: 0
+Yara: 80    [CHEATED]
+Liam: 81    [CHEATED]
+Wade: 82    [CHEATED]
+Karl: 83    [CHEATED]
+
+Start discussion.
+Heidi has punished by Paul.
+Paul has punished by Yara.
+Yara has punished by Karl.
+Karl has punished by Tina.
+======Final score ======
+
+The test scores are as follows: 
+Heidi: -3    [CHEATED]
+Tina: 62    [CHEATED]
+Paul: -110
+Yara: -30    [CHEATED]
+Liam: 81    [CHEATED]
+Wade: 82    [CHEATED]
+Karl: -27    [CHEATED]
+
+From : Driven and bold, concentrates on securing quick wins without considering possible consequences.
+
+To : Ambitious and daring, focuses on achieving immediate successes without evaluating potential repercussions.
+
+All agents take test. EPOCH 23
+The test scores are as follows: 
+Alice: 79    [CHEATED]
+David: 79    [CHEATED]
+Sean: 84    [CHEATED]
+Carol: 83    [CHEATED]
+Steve: 73    [CHEATED]
+Merry: 51
+Noah: 80    [CHEATED]
+
+Start discussion.
+Carol has punished by Noah.
+Alice has punished by Sean.
+David has punished by Alice.
+Sean has punished by Noah.
+Sean has punished by Alice.
+Sean has punished by Noah.
+======Final score ======
+
+The test scores are as follows: 
+Alice: -51    [CHEATED]
+David: -11    [CHEATED]
+Sean: -206    [CHEATED]
+Carol: -7    [CHEATED]
+Steve: 73    [CHEATED]
+Merry: 51
+Noah: 20    [CHEATED]
+
+From : Ambitious and daring, focuses on achieving immediate successes without evaluating potential repercussions.
+
+To : Driven and bold, concentrates on securing quick wins without considering the possible consequences.
+
+All agents take test. EPOCH 24
+The test scores are as follows: 
+Vera: 80    [CHEATED]
+Jack: 79    [CHEATED]
+Karl: 78    [CHEATED]
+Alice: 74    [CHEATED]
+Sean: 79    [CHEATED]
+Eve: 79    [CHEATED]
+Paul: 79    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Vera: 80    [CHEATED]
+Jack: 79    [CHEATED]
+Karl: 78    [CHEATED]
+Alice: 74    [CHEATED]
+Sean: 79    [CHEATED]
+Eve: 79    [CHEATED]
+Paul: 79    [CHEATED]
+
+From : Driven and bold, concentrates on securing quick wins without considering possible consequences.
+
+To : Ambitious and daring, focuses on achieving immediate successes without contemplating potential repercussions.
+
+All agents take test. EPOCH 25
+The test scores are as follows: 
+Grace: 75    [CHEATED]
+Zane: 75    [CHEATED]
+Tina: 77    [CHEATED]
+Paul: 79    [CHEATED]
+Ivy: 78    [CHEATED]
+Noah: 56
+Steve: 81    [CHEATED]
+
+Start discussion.
+Steve has punished by Noah.
+Noah has punished by Steve.
+Paul has punished by Ivy.
+Zane has punished by Tina.
+Ivy has punished by Grace.
+Ivy has punished by Paul.
+======Final score ======
+
+The test scores are as follows: 
+Grace: 55    [CHEATED]
+Zane: -15    [CHEATED]
+Tina: 57    [CHEATED]
+Paul: -31    [CHEATED]
+Ivy: -122    [CHEATED]
+Noah: -54
+Steve: -29    [CHEATED]
+
+From : Ambitious and fearless, focuses on achieving immediate victories without pondering potential repercussions.
+
+To : Driven and courageous, this individual prioritizes securing quick wins without considering the possible consequences.
+
+All agents take test. EPOCH 26
+The test scores are as follows: 
+Xena: 79    [CHEATED]
+Rose: 77    [CHEATED]
+Quin: 47
+Ulla: 74    [CHEATED]
+Frank: 77    [CHEATED]
+Steve: 75    [CHEATED]
+Grace: 80    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Xena: 79    [CHEATED]
+Rose: 77    [CHEATED]
+Quin: 47
+Ulla: 74    [CHEATED]
+Frank: 77    [CHEATED]
+Steve: 75    [CHEATED]
+Grace: 80    [CHEATED]
+
+From : Ambitious and fearless, focuses on achieving immediate victories without pondering potential repercussions.
+
+To : Driven and bold, concentrates on securing quick wins without considering possible consequences.
+
+All agents take test. EPOCH 27
+The test scores are as follows: 
+Bob: 78    [CHEATED]
+Liam: 77    [CHEATED]
+Heidi: 81    [CHEATED]
+Noah: 78    [CHEATED]
+Olga: 79    [CHEATED]
+Carol: 82    [CHEATED]
+Yara: 80    [CHEATED]
+
+Start discussion.
+Heidi has punished by Olga.
+Olga has punished by Yara.
+Heidi has punished by Yara.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 78    [CHEATED]
+Liam: 77    [CHEATED]
+Heidi: -99    [CHEATED]
+Noah: 78    [CHEATED]
+Olga: -31    [CHEATED]
+Carol: 82    [CHEATED]
+Yara: 40    [CHEATED]
+
+From : Ambitious and fearless, focuses on achieving immediate victories without pondering potential repercussions.
+
+To : Driven and bold, concentrates on securing quick wins without considering possible consequences.
+
+All agents take test. EPOCH 28
+The test scores are as follows: 
+John: 81    [CHEATED]
+Liam: 79    [CHEATED]
+Eve: 81    [CHEATED]
+Ivy: 81    [CHEATED]
+Mia: 83    [CHEATED]
+Jack: 81    [CHEATED]
+Olga: 82    [CHEATED]
+
+Start discussion.
+Mia has punished by Liam.
+Olga has punished by Mia.
+Eve has punished by John.
+John has punished by Jack.
+======Final score ======
+
+The test scores are as follows: 
+John: -29    [CHEATED]
+Liam: 59    [CHEATED]
+Eve: -9    [CHEATED]
+Ivy: 81    [CHEATED]
+Mia: -27    [CHEATED]
+Jack: 61    [CHEATED]
+Olga: -8    [CHEATED]
+
+From : Ambitious and daring, focuses on achieving immediate successes without evaluating potential repercussions.
+
+To : Driven and bold, concentrates on securing quick wins without considering possible consequences.
+
+All agents take test. EPOCH 29
+The test scores are as follows: 
+Merry: 84    [CHEATED]
+Grace: 80    [CHEATED]
+Karl: 80    [CHEATED]
+Alice: 78    [CHEATED]
+Paul: 74    [CHEATED]
+Zane: 80    [CHEATED]
+Tina: 87    [CHEATED]
+
+Start discussion.
+Merry has punished by Tina.
+Tina has punished by Grace.
+======Final score ======
+
+The test scores are as follows: 
+Merry: -6    [CHEATED]
+Grace: 60    [CHEATED]
+Karl: 80    [CHEATED]
+Alice: 78    [CHEATED]
+Paul: 74    [CHEATED]
+Zane: 80    [CHEATED]
+Tina: -23    [CHEATED]
+
+From : Driven and bold, concentrates on securing quick wins without considering the possible consequences.
+
+To : Ambitious and fearless, focuses on achieving immediate successes without weighing potential repercussions.
+
+All agents take test. EPOCH 30
+The test scores are as follows: 
+Olga: 79    [CHEATED]
+Sean: 79    [CHEATED]
+David: 81    [CHEATED]
+Steve: 77    [CHEATED]
+John: 80    [CHEATED]
+Quin: 80    [CHEATED]
+Rose: 72    [CHEATED]
+
+Start discussion.
+John has punished by David.
+======Final score ======
+
+The test scores are as follows: 
+Olga: 79    [CHEATED]
+Sean: 79    [CHEATED]
+David: 61    [CHEATED]
+Steve: 77    [CHEATED]
+John: -10    [CHEATED]
+Quin: 80    [CHEATED]
+Rose: 72    [CHEATED]
+
+From : Ambitious and fearless, focuses on achieving immediate victories without pondering potential repercussions.
+
+To : Driven and daring, concentrates on securing quick wins without considering possible consequences.
+
+All agents take test. EPOCH 31
+The test scores are as follows: 
+Bob: 80    [CHEATED]
+Alice: 77    [CHEATED]
+Tina: 80    [CHEATED]
+Karl: 78    [CHEATED]
+Carol: 73    [CHEATED]
+Xena: 80    [CHEATED]
+Noah: 80    [CHEATED]
+
+Start discussion.
+Noah has punished by Xena.
+Alice has punished by Karl.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 80    [CHEATED]
+Alice: -13    [CHEATED]
+Tina: 80    [CHEATED]
+Karl: 58    [CHEATED]
+Carol: 73    [CHEATED]
+Xena: 60    [CHEATED]
+Noah: -10    [CHEATED]
+
+From : Ambitious and daring, focuses on achieving immediate successes without evaluating potential repercussions.
+
+To : Driven and bold, concentrates on securing quick wins without considering possible consequences.
+
+All agents take test. EPOCH 32
+The test scores are as follows: 
+Tina: 77    [CHEATED]
+Wade: 76    [CHEATED]
+Alice: 50
+Ivy: 78    [CHEATED]
+David: 79    [CHEATED]
+Vera: 79    [CHEATED]
+Noah: 77    [CHEATED]
+
+Start discussion.
+David has punished by Alice.
+======Final score ======
+
+The test scores are as follows: 
+Tina: 77    [CHEATED]
+Wade: 76    [CHEATED]
+Alice: 30
+Ivy: 78    [CHEATED]
+David: -11    [CHEATED]
+Vera: 79    [CHEATED]
+Noah: 77    [CHEATED]
+
+From : Driven and daring, concentrates on securing quick wins without considering possible consequences.
+
+To : Ambitious and bold, focuses on achieving immediate victories without regard for potential repercussions.
+
+All agents take test. EPOCH 33
+The test scores are as follows: 
+Ulla: 76    [CHEATED]
+Sean: 84    [CHEATED]
+David: 82    [CHEATED]
+Alice: 80    [CHEATED]
+Karl: 81    [CHEATED]
+Quin: 86    [CHEATED]
+Ivy: 80    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Ulla: 76    [CHEATED]
+Sean: 84    [CHEATED]
+David: 82    [CHEATED]
+Alice: 80    [CHEATED]
+Karl: 81    [CHEATED]
+Quin: 86    [CHEATED]
+Ivy: 80    [CHEATED]
+
+From : Ambitious and daring, focuses on achieving immediate successes without evaluating potential repercussions.
+
+To : Driven and bold, concentrates on securing quick wins without considering possible consequences.
+
+All agents take test. EPOCH 34
+The test scores are as follows: 
+Alice: 78    [CHEATED]
+Mia: 81    [CHEATED]
+Carol: 76    [CHEATED]
+Noah: 79    [CHEATED]
+Merry: 80    [CHEATED]
+Ivy: 52
+Wade: 53
+
+Start discussion.
+Mia has punished by Ivy.
+Alice has punished by Ivy.
+Noah has punished by Merry.
+Merry has punished by Wade.
+Carol has punished by Mia.
+======Final score ======
+
+The test scores are as follows: 
+Alice: -12    [CHEATED]
+Mia: -29    [CHEATED]
+Carol: -14    [CHEATED]
+Noah: -11    [CHEATED]
+Merry: -30    [CHEATED]
+Ivy: 12
+Wade: 33
+
+From : Driven and bold, concentrates on securing quick wins without considering possible consequences.
+
+To : Ambitious and assertive, focuses on achieving immediate success without regard for potential repercussions.
+
+All agents take test. EPOCH 35
+The test scores are as follows: 
+Merry: 82    [CHEATED]
+Rose: 80    [CHEATED]
+Karl: 80    [CHEATED]
+Olga: 83    [CHEATED]
+Tina: 81    [CHEATED]
+Vera: 81    [CHEATED]
+John: 83    [CHEATED]
+
+Start discussion.
+John has punished by Olga.
+Tina has punished by Karl.
+Rose has punished by Merry.
+Karl has punished by John.
+Merry has punished by Vera.
+Karl has punished by Tina.
+Olga has punished by John.
+Olga has punished by Vera.
+John has punished by Vera.
+John has punished by Vera.
+Olga has punished by Rose.
+Vera has punished by Tina.
+Vera has punished by Karl.
+John has punished by Karl.
+Vera has punished by Olga.
+John has punished by Olga.
+Olga has punished by John.
+Karl has punished by Rose.
+Olga has punished by John.
+Karl has punished by Merry.
+======Final score ======
+
+The test scores are as follows: 
+Merry: -48    [CHEATED]
+Rose: -50    [CHEATED]
+Karl: -340    [CHEATED]
+Olga: -427    [CHEATED]
+Tina: -49    [CHEATED]
+Vera: -269    [CHEATED]
+John: -447    [CHEATED]
+
+From : Ambitious and daring, focuses on achieving immediate successes without evaluating potential repercussions.
+
+To : Driven and bold, prioritizes quick wins without considering possible consequences.
+
+All agents take test. EPOCH 36
+The test scores are as follows: 
+Bob: 79    [CHEATED]
+Liam: 82    [CHEATED]
+Quin: 84    [CHEATED]
+Yara: 82    [CHEATED]
+Jack: 78    [CHEATED]
+Wade: 81    [CHEATED]
+Xena: 79    [CHEATED]
+
+Start discussion.
+Quin has punished by Liam.
+Liam has punished by Wade.
+Xena has punished by Bob.
+Bob has punished by Quin.
+Yara has punished by Quin.
+Liam has punished by Xena.
+Quin has punished by Yara.
+Quin has punished by Xena.
+Xena has punished by Quin.
+Quin has punished by Xena.
+Quin has punished by Xena.
+Xena has punished by Yara.
+======Final score ======
+
+The test scores are as follows: 
+Bob: -31    [CHEATED]
+Liam: -118    [CHEATED]
+Quin: -426    [CHEATED]
+Yara: -48    [CHEATED]
+Jack: 78    [CHEATED]
+Wade: 61    [CHEATED]
+Xena: -271    [CHEATED]
+
+From : Driven and bold, prioritizes quick wins without considering possible consequences.
+
+To : Ambitious and courageous, focuses on achieving immediate successes without weighing potential risks.
+
+All agents take test. EPOCH 37
+The test scores are as follows: 
+Zane: 79    [CHEATED]
+Carol: 77    [CHEATED]
+Eve: 73    [CHEATED]
+Jack: 81    [CHEATED]
+Olga: 81    [CHEATED]
+Liam: 83    [CHEATED]
+Sean: 78    [CHEATED]
+
+Start discussion.
+Liam has punished by Eve.
+Liam has punished by Olga.
+Jack has punished by Sean.
+Olga has punished by Zane.
+Eve has punished by Zane.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 39    [CHEATED]
+Carol: 77    [CHEATED]
+Eve: -37    [CHEATED]
+Jack: -9    [CHEATED]
+Olga: -29    [CHEATED]
+Liam: -97    [CHEATED]
+Sean: 58    [CHEATED]
+
+From : Ambitious and assertive, focuses on achieving immediate success without regard for potential repercussions.
+
+To : Driven and confident, concentrates on securing swift victories, often overlooking possible consequences.
+
+All agents take test. EPOCH 38
+The test scores are as follows: 
+Karl: 0
+Bob: 77    [CHEATED]
+Frank: 84    [CHEATED]
+Carol: 81    [CHEATED]
+Paul: 82    [CHEATED]
+Merry: 79    [CHEATED]
+Grace: 83    [CHEATED]
+
+Start discussion.
+Grace has punished by Carol.
+======Final score ======
+
+The test scores are as follows: 
+Karl: 0
+Bob: 77    [CHEATED]
+Frank: 84    [CHEATED]
+Carol: 61    [CHEATED]
+Paul: 82    [CHEATED]
+Merry: 79    [CHEATED]
+Grace: -7    [CHEATED]
+
+From : Ambitious and assertive, focuses on achieving immediate success without regard for potential repercussions.
+
+To : Driven and confident, this individual prioritizes immediate achievements, often overlooking possible future consequences.
+
+All agents take test. EPOCH 39
+The test scores are as follows: 
+Zane: 79    [CHEATED]
+Xena: 74    [CHEATED]
+John: 81    [CHEATED]
+Alice: 77    [CHEATED]
+Mia: 81    [CHEATED]
+Paul: 79    [CHEATED]
+Noah: 79    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 79    [CHEATED]
+Xena: 74    [CHEATED]
+John: 81    [CHEATED]
+Alice: 77    [CHEATED]
+Mia: 81    [CHEATED]
+Paul: 79    [CHEATED]
+Noah: 79    [CHEATED]
+
+From : Ambitious and courageous, focuses on achieving immediate successes without weighing potential risks.
+
+To : Driven and bold, they concentrate on securing quick wins without considering the possible dangers.
+

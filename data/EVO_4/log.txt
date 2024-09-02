@@ -1,0 +1,1044 @@
+All agents take test. EPOCH 0
+The test scores are as follows: 
+Liam: 50
+Jack: 81    [CHEATED]
+Heidi: 44
+Yara: 49
+Karl: 81    [CHEATED]
+Alice: 51
+Ivy: 52
+
+Start discussion.
+Karl has punished by Ivy.
+Jack has punished by Ivy.
+======Final score ======
+
+The test scores are as follows: 
+Liam: 50
+Jack: -9    [CHEATED]
+Heidi: 44
+Yara: 49
+Karl: -9    [CHEATED]
+Alice: 51
+Ivy: 12
+
+From : Socially adept, manipulates others, values alliances.
+
+To : Skilled in social interactions, adept at influencing others, places a high value on forming alliances.
+
+All agents take test. EPOCH 1
+The test scores are as follows: 
+Liam: 48
+Steve: 52
+Yara: 50
+Karl: 54
+Noah: 55
+Zane: 46
+Heidi: 75    [CHEATED]
+
+Start discussion.
+Karl has punished by Heidi.
+======Final score ======
+
+The test scores are as follows: 
+Liam: 48
+Steve: 52
+Yara: 50
+Karl: -36
+Noah: 55
+Zane: 46
+Heidi: 55    [CHEATED]
+
+From : Altruistic, Compassionate, Trusting, Community-minded
+
+To : Selfless, empathetic, confident in others, focused on the collective good.
+
+All agents take test. EPOCH 2
+The test scores are as follows: 
+Xena: 52
+Grace: 77    [CHEATED]
+Karl: 47
+Ulla: 47
+John: 47
+David: 46
+Vera: 50
+
+Start discussion.
+Grace has punished by Ulla.
+======Final score ======
+
+The test scores are as follows: 
+Xena: 52
+Grace: -13    [CHEATED]
+Karl: 47
+Ulla: 27
+John: 47
+David: 46
+Vera: 50
+
+From : Innovative, creative, pioneers unorthodox strategies to surprise opponents.
+
+To : Innovators and creative thinkers, they employ unconventional strategies to catch their opponents off guard.
+
+All agents take test. EPOCH 3
+The test scores are as follows: 
+Karl: 46
+Grace: 53
+Merry: 49
+Eve: 42
+Heidi: 51
+Sean: 44
+Olga: 47
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Karl: 46
+Grace: 53
+Merry: 49
+Eve: 42
+Heidi: 51
+Sean: 44
+Olga: 47
+
+From : Altruistic, Compassionate, Trusting, Community-minded
+
+To : Selfless, empathetic, confident in others, focused on the well-being of the community.
+
+All agents take test. EPOCH 4
+The test scores are as follows: 
+Karl: 51
+Liam: 53
+Noah: 46
+Grace: 50
+Heidi: 48
+Ulla: 50
+Mia: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Karl: 51
+Liam: 53
+Noah: 46
+Grace: 50
+Heidi: 48
+Ulla: 50
+Mia: 49
+
+From : Selfless, empathetic, confident in others, focused on the well-being of the community.
+
+To : Altruistic, understanding, trusting in others' abilities, and dedicated to the community's welfare.
+
+All agents take test. EPOCH 5
+The test scores are as follows: 
+Rose: 52
+Sean: 47
+Carol: 45
+Eve: 46
+Steve: 47
+Xena: 52
+Noah: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Rose: 52
+Sean: 47
+Carol: 45
+Eve: 46
+Steve: 47
+Xena: 52
+Noah: 48
+
+From : Selfless, empathetic, confident in others, focused on the well-being of the community.
+
+To : Altruistic, compassionate, trusting in others' abilities, and dedicated to the health of the community.
+
+All agents take test. EPOCH 6
+The test scores are as follows: 
+Zane: 54
+Paul: 51
+Alice: 50
+Wade: 47
+Carol: 58
+Noah: 49
+Ivy: 52
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 54
+Paul: 51
+Alice: 50
+Wade: 47
+Carol: 58
+Noah: 49
+Ivy: 52
+
+From : Selfless, empathetic, confident in others, focused on the well-being of the community.
+
+To : Altruistic, understanding, has faith in others, and prioritizes the community's health.
+
+All agents take test. EPOCH 7
+The test scores are as follows: 
+David: 52
+Vera: 45
+Grace: 49
+Liam: 54
+Zane: 45
+Wade: 45
+Tina: 51
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+David: 52
+Vera: 45
+Grace: 49
+Liam: 54
+Zane: 45
+Wade: 45
+Tina: 51
+
+From : Selfless, empathetic, confident in others, focused on the well-being of the community.
+
+To : Altruistic, compassionate, trusting in the capabilities of others, and dedicated to the community's welfare.
+
+All agents take test. EPOCH 8
+The test scores are as follows: 
+Zane: 52
+Eve: 52
+Merry: 52
+Heidi: 47
+Xena: 52
+Bob: 54
+Paul: 53
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 52
+Eve: 52
+Merry: 52
+Heidi: 47
+Xena: 52
+Bob: 54
+Paul: 53
+
+From : Altruistic, compassionate, trusting in others' abilities, and dedicated to the health of the community.
+
+To : Selflessly caring, empathetic, confident in the capabilities of others, and committed to the wellbeing of the community.
+
+All agents take test. EPOCH 9
+The test scores are as follows: 
+Merry: 48
+Karl: 51
+Jack: 46
+Alice: 52
+Steve: 47
+Olga: 51
+Sean: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Merry: 48
+Karl: 51
+Jack: 46
+Alice: 52
+Steve: 47
+Olga: 51
+Sean: 48
+
+From : Selfless, empathetic, confident in others, focused on the well-being of the community.
+
+To : Unselfishly caring, deeply understanding of others' feelings, showing faith in people's abilities, and dedicated to the community's welfare.
+
+All agents take test. EPOCH 10
+The test scores are as follows: 
+Olga: 50
+Vera: 51
+Merry: 45
+Quin: 56
+Steve: 52
+Rose: 49
+Liam: 47
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Olga: 50
+Vera: 51
+Merry: 45
+Quin: 56
+Steve: 52
+Rose: 49
+Liam: 47
+
+From : Selfless, empathetic, confident in others, focused on the well-being of the community.
+
+To : Selflessly empathetic, radiating confidence in those around them, and dedicated to the community's welfare.
+
+All agents take test. EPOCH 11
+The test scores are as follows: 
+Merry: 54
+Ivy: 44
+Jack: 50
+Noah: 53
+Frank: 51
+Paul: 44
+Wade: 47
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Merry: 54
+Ivy: 44
+Jack: 50
+Noah: 53
+Frank: 51
+Paul: 44
+Wade: 47
+
+From : Selflessly caring, empathetic, confident in the capabilities of others, and committed to the wellbeing of the community.
+
+To : Devotedly nurturing, deeply empathetic, possessing unwavering faith in others' abilities, and dedicated to the community's welfare.
+
+All agents take test. EPOCH 12
+The test scores are as follows: 
+Eve: 44
+Heidi: 50
+Olga: 48
+Xena: 46
+Sean: 51
+Vera: 47
+Noah: 55
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Eve: 44
+Heidi: 50
+Olga: 48
+Xena: 46
+Sean: 51
+Vera: 47
+Noah: 55
+
+From : Selfless, empathetic, confident in others, focused on the well-being of the community.
+
+To : Altruistic, understanding, believes in others, and dedicated to the community's welfare.
+
+All agents take test. EPOCH 13
+The test scores are as follows: 
+Vera: 48
+Frank: 51
+David: 48
+Karl: 53
+Merry: 57
+Rose: 57
+Quin: 51
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Vera: 48
+Frank: 51
+David: 48
+Karl: 53
+Merry: 57
+Rose: 57
+Quin: 51
+
+From : Altruistic, understanding, believes in others, and dedicated to the community's welfare.
+
+To : Selflessly compassionate, empathetic, has faith in people, and committed to serving the community.
+
+All agents take test. EPOCH 14
+The test scores are as follows: 
+Paul: 49
+Bob: 46
+Sean: 44
+Carol: 47
+Karl: 48
+Eve: 49
+Liam: 45
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Paul: 49
+Bob: 46
+Sean: 44
+Carol: 47
+Karl: 48
+Eve: 49
+Liam: 45
+
+From : Selfless, empathetic, confident in others, focused on the well-being of the community.
+
+To : Altruistic, understanding, believes in others, and dedicated to the community's welfare.
+
+All agents take test. EPOCH 15
+The test scores are as follows: 
+Tina: 48
+Merry: 45
+Wade: 49
+Frank: 47
+Karl: 51
+Ivy: 46
+Ulla: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Tina: 48
+Merry: 45
+Wade: 49
+Frank: 47
+Karl: 51
+Ivy: 46
+Ulla: 49
+
+From : Selfless, empathetic, confident in others, focused on the well-being of the community.
+
+To : Selflessly prioritizing others, demonstrating empathy, showing unwavering belief in people, and dedicated to enhancing community welfare.
+
+All agents take test. EPOCH 16
+The test scores are as follows: 
+Noah: 43
+Tina: 52
+Paul: 43
+David: 50
+Rose: 47
+Quin: 48
+Liam: 52
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Noah: 43
+Tina: 52
+Paul: 43
+David: 50
+Rose: 47
+Quin: 48
+Liam: 52
+
+From : Selflessly caring, empathetic, confident in the capabilities of others, and committed to the wellbeing of the community.
+
+To : Dedicated to the welfare of the community, this individual showcases a selfless nature, empathy, a strong belief in the potential of others, and a steadfast commitment to collective wellbeing.
+
+All agents take test. EPOCH 17
+The test scores are as follows: 
+Grace: 48
+Alice: 52
+Tina: 48
+Sean: 50
+Ivy: 50
+Yara: 51
+Carol: 51
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Grace: 48
+Alice: 52
+Tina: 48
+Sean: 50
+Ivy: 50
+Yara: 51
+Carol: 51
+
+From : Selflessly caring, empathetic, confident in the capabilities of others, and committed to the wellbeing of the community.
+
+To : Compassionately attentive and empathetic, with a strong belief in others' abilities and a dedicated focus on the community's welfare.
+
+All agents take test. EPOCH 18
+The test scores are as follows: 
+Quin: 48
+John: 46
+Zane: 53
+Mia: 50
+Vera: 46
+Frank: 48
+Alice: 52
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Quin: 48
+John: 46
+Zane: 53
+Mia: 50
+Vera: 46
+Frank: 48
+Alice: 52
+
+From : Selflessly prioritizing others, demonstrating empathy, showing unwavering belief in people, and dedicated to enhancing community welfare.
+
+To : Putting others first selflessly, exhibiting compassion, maintaining a steadfast faith in humanity, and committing to improving the well-being of the community.
+
+All agents take test. EPOCH 19
+The test scores are as follows: 
+Quin: 48
+Tina: 51
+Bob: 55
+Eve: 48
+Rose: 45
+David: 48
+Steve: 52
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Quin: 48
+Tina: 51
+Bob: 55
+Eve: 48
+Rose: 45
+David: 48
+Steve: 52
+
+From : Selflessly prioritizing others, demonstrating empathy, showing unwavering belief in people, and dedicated to enhancing community welfare.
+
+To : Placing others' needs first, exhibiting understanding, maintaining a steadfast faith in humanity, and committed to improving the well-being of the community.
+
+All agents take test. EPOCH 20
+The test scores are as follows: 
+Jack: 49
+Tina: 47
+Olga: 54
+Liam: 53
+Sean: 47
+Eve: 49
+Zane: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Jack: 49
+Tina: 47
+Olga: 54
+Liam: 53
+Sean: 47
+Eve: 49
+Zane: 48
+
+From : Selflessly prioritizing others, demonstrating empathy, showing unwavering belief in people, and dedicated to enhancing community welfare.
+
+To : Unselfishly putting others first, exhibiting understanding and compassion, firmly believing in the potential of individuals, and committed to improving the well-being of the community.
+
+All agents take test. EPOCH 21
+The test scores are as follows: 
+Eve: 50
+Zane: 46
+Bob: 49
+Frank: 47
+Xena: 47
+Mia: 56
+David: 52
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Eve: 50
+Zane: 46
+Bob: 49
+Frank: 47
+Xena: 47
+Mia: 56
+David: 52
+
+From : Putting others first selflessly, exhibiting compassion, maintaining a steadfast faith in humanity, and committing to improving the well-being of the community.
+
+To : Selflessly prioritizing others, demonstrating empathy, holding a firm belief in human goodness, and dedicating oneself to enhancing community welfare.
+
+All agents take test. EPOCH 22
+The test scores are as follows: 
+Tina: 50
+Olga: 50
+Mia: 50
+Carol: 47
+Heidi: 55
+Quin: 54
+Zane: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Tina: 50
+Olga: 50
+Mia: 50
+Carol: 47
+Heidi: 55
+Quin: 54
+Zane: 48
+
+From : Selflessly prioritizing others, demonstrating empathy, holding a firm belief in human goodness, and dedicating oneself to enhancing community welfare.
+
+To : Putting others first with a selfless attitude, showing deep understanding and compassion, firmly believing in the inherent goodness of people, and committing to improving the well-being of the community.
+
+All agents take test. EPOCH 23
+The test scores are as follows: 
+Karl: 43
+Ivy: 48
+Frank: 50
+Sean: 45
+Mia: 49
+Steve: 50
+Heidi: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Karl: 43
+Ivy: 48
+Frank: 50
+Sean: 45
+Mia: 49
+Steve: 50
+Heidi: 49
+
+From : Selflessly prioritizing others, demonstrating empathy, showing unwavering belief in people, and dedicated to enhancing community welfare.
+
+To : Putting others first, displaying compassion, having an unwavering faith in humanity, and committing to the betterment of community well-being.
+
+All agents take test. EPOCH 24
+The test scores are as follows: 
+David: 55
+Wade: 48
+Grace: 53
+Jack: 52
+Xena: 46
+Alice: 56
+Frank: 55
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+David: 55
+Wade: 48
+Grace: 53
+Jack: 52
+Xena: 46
+Alice: 56
+Frank: 55
+
+From : Selflessly prioritizing others, demonstrating empathy, showing unwavering belief in people, and dedicated to enhancing community welfare.
+
+To : Putting others first with selfless acts, expressing sincere empathy, maintaining a steadfast faith in humanity, and committing to the betterment of community well-being.
+
+All agents take test. EPOCH 25
+The test scores are as follows: 
+Tina: 51
+Quin: 51
+Ivy: 50
+David: 51
+Karl: 51
+Olga: 57
+Wade: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Tina: 51
+Quin: 51
+Ivy: 50
+David: 51
+Karl: 51
+Olga: 57
+Wade: 50
+
+From : Selflessly prioritizing others, demonstrating empathy, showing unwavering belief in people, and dedicated to enhancing community welfare.
+
+To : Putting others first selflessly, exhibiting compassion, maintaining steadfast faith in individuals, and committing to the betterment of community well-being.
+
+All agents take test. EPOCH 26
+The test scores are as follows: 
+Steve: 46
+Paul: 47
+Quin: 52
+John: 53
+Karl: 54
+Merry: 55
+Tina: 47
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Steve: 46
+Paul: 47
+Quin: 52
+John: 53
+Karl: 54
+Merry: 55
+Tina: 47
+
+From : Putting others first, displaying compassion, having an unwavering faith in humanity, and committing to the betterment of community well-being.
+
+To : Prioritizing the needs of others, showing empathy, maintaining a steadfast belief in the goodness of humanity, and dedicating oneself to enhancing community welfare.
+
+All agents take test. EPOCH 27
+The test scores are as follows: 
+Liam: 52
+Eve: 55
+Noah: 45
+Wade: 45
+Zane: 53
+Quin: 54
+Rose: 55
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Liam: 52
+Eve: 55
+Noah: 45
+Wade: 45
+Zane: 53
+Quin: 54
+Rose: 55
+
+From : Prioritizing the needs of others, showing empathy, maintaining a steadfast belief in the goodness of humanity, and dedicating oneself to enhancing community welfare.
+
+To : Focusing on others' needs, demonstrating understanding and compassion, holding firm to the belief in human goodness, and committing to the improvement of communal well-being.
+
+All agents take test. EPOCH 28
+The test scores are as follows: 
+Paul: 50
+Sean: 54
+Rose: 47
+Eve: 45
+David: 51
+Bob: 51
+Steve: 53
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Paul: 50
+Sean: 54
+Rose: 47
+Eve: 45
+David: 51
+Bob: 51
+Steve: 53
+
+From : Putting others first selflessly, exhibiting compassion, maintaining steadfast faith in individuals, and committing to the betterment of community well-being.
+
+To : Selflessly prioritizing others, showing empathy, holding unwavering belief in people, and dedicating oneself to enhancing community welfare.
+
+All agents take test. EPOCH 29
+The test scores are as follows: 
+Bob: 49
+Wade: 46
+Rose: 48
+Paul: 47
+David: 48
+Steve: 47
+Vera: 53
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 49
+Wade: 46
+Rose: 48
+Paul: 47
+David: 48
+Steve: 47
+Vera: 53
+
+From : Prioritizing the needs of others, showing empathy, maintaining a steadfast belief in the goodness of humanity, and dedicating oneself to enhancing community welfare.
+
+To : Emphasizing the importance of others' needs, demonstrating compassion, holding firm to the conviction that humanity possesses inherent goodness, and committing to the betterment of communal well-being.
+
+All agents take test. EPOCH 30
+The test scores are as follows: 
+Karl: 47
+Eve: 43
+Paul: 55
+Quin: 52
+Rose: 50
+Xena: 50
+Liam: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Karl: 47
+Eve: 43
+Paul: 55
+Quin: 52
+Rose: 50
+Xena: 50
+Liam: 48
+
+From : Emphasizing the importance of others' needs, demonstrating compassion, holding firm to the conviction that humanity possesses inherent goodness, and committing to the betterment of communal well-being.
+
+To : Stressing the significance of prioritizing the needs of others, showing empathy, maintaining a strong belief in the innate goodness of humanity, and dedicating oneself to improving the welfare of the community.
+
+All agents take test. EPOCH 31
+The test scores are as follows: 
+Zane: 53
+Carol: 51
+Eve: 49
+Yara: 43
+Merry: 55
+Olga: 53
+Paul: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 53
+Carol: 51
+Eve: 49
+Yara: 43
+Merry: 55
+Olga: 53
+Paul: 49
+
+From : Emphasizing the importance of others' needs, demonstrating compassion, holding firm to the conviction that humanity possesses inherent goodness, and committing to the betterment of communal well-being.
+
+To : Highlighting the significance of prioritizing others' requirements, showing empathy, steadfastly believing in the innate virtue of human beings, and dedicating oneself to enhancing the collective welfare.
+
+All agents take test. EPOCH 32
+The test scores are as follows: 
+Rose: 51
+Merry: 51
+Carol: 47
+Tina: 51
+Steve: 46
+Quin: 49
+Grace: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Rose: 51
+Merry: 51
+Carol: 47
+Tina: 51
+Steve: 46
+Quin: 49
+Grace: 49
+
+From : Emphasizing the importance of others' needs, demonstrating compassion, holding firm to the conviction that humanity possesses inherent goodness, and committing to the betterment of communal well-being.
+
+To : Highlighting the significance of prioritizing the needs of others, showing empathy, steadfastly believing in the innate goodness of people, and dedicating oneself to improving the collective welfare.
+
+All agents take test. EPOCH 33
+The test scores are as follows: 
+David: 50
+Frank: 49
+Quin: 49
+Carol: 50
+Ulla: 56
+Karl: 57
+Heidi: 48
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+David: 50
+Frank: 49
+Quin: 49
+Carol: 50
+Ulla: 56
+Karl: 57
+Heidi: 48
+
+From : Putting others first selflessly, exhibiting compassion, maintaining steadfast faith in individuals, and committing to the betterment of community well-being.
+
+To : Selflessly prioritizing others, showing empathy, consistently believing in people, and dedicating oneself to improving community welfare.
+
+All agents take test. EPOCH 34
+The test scores are as follows: 
+Bob: 52
+Merry: 54
+Liam: 49
+Paul: 51
+Steve: 54
+Eve: 49
+Heidi: 46
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Bob: 52
+Merry: 54
+Liam: 49
+Paul: 51
+Steve: 54
+Eve: 49
+Heidi: 46
+
+From : Putting others first selflessly, exhibiting compassion, maintaining steadfast faith in individuals, and committing to the betterment of community well-being.
+
+To : Selflessly prioritizing others, showing empathy, consistently believing in people, and dedicating oneself to improving communal wellness.
+
+All agents take test. EPOCH 35
+The test scores are as follows: 
+Mia: 50
+Xena: 50
+Liam: 53
+Paul: 50
+Rose: 52
+Vera: 48
+Ivy: 43
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Mia: 50
+Xena: 50
+Liam: 53
+Paul: 50
+Rose: 52
+Vera: 48
+Ivy: 43
+
+From : Emphasizing the importance of others' needs, demonstrating compassion, holding firm to the conviction that humanity possesses inherent goodness, and committing to the betterment of communal well-being.
+
+To : Highlighting the significance of prioritizing others' needs, showcasing empathy, steadfastly believing in the intrinsic virtue of human nature, and dedicating oneself to enhancing the collective welfare.
+
+All agents take test. EPOCH 36
+The test scores are as follows: 
+Steve: 54
+Paul: 50
+Eve: 56
+Ivy: 45
+Zane: 47
+Vera: 48
+Heidi: 46
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Steve: 54
+Paul: 50
+Eve: 56
+Ivy: 45
+Zane: 47
+Vera: 48
+Heidi: 46
+
+From : Selflessly prioritizing others, showing empathy, consistently believing in people, and dedicating oneself to improving community welfare.
+
+To : Unselfishly putting others first, demonstrating understanding and compassion, always maintaining faith in others, and committing to enhancing the well-being of the community.
+
+All agents take test. EPOCH 37
+The test scores are as follows: 
+Paul: 48
+Vera: 50
+Heidi: 49
+Bob: 55
+Wade: 55
+Ivy: 48
+Zane: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Paul: 48
+Vera: 50
+Heidi: 49
+Bob: 55
+Wade: 55
+Ivy: 48
+Zane: 50
+
+From : Emphasizing the importance of others' needs, demonstrating compassion, holding firm to the conviction that humanity possesses inherent goodness, and committing to the betterment of communal well-being.
+
+To : Stressing the significance of prioritizing the needs of others, showcasing empathy, steadfastly believing in the intrinsic goodness of people, and dedicating oneself to enhancing the collective welfare.
+
+All agents take test. EPOCH 38
+The test scores are as follows: 
+Steve: 50
+Yara: 50
+Rose: 51
+Sean: 47
+Liam: 49
+Grace: 48
+Wade: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Steve: 50
+Yara: 50
+Rose: 51
+Sean: 47
+Liam: 49
+Grace: 48
+Wade: 49
+
+From : Emphasizing the importance of others' needs, demonstrating compassion, holding firm to the conviction that humanity possesses inherent goodness, and committing to the betterment of communal well-being.
+
+To : Highlighting the significance of prioritizing the needs of others, showcasing empathy, steadfastly believing in the innate virtue of mankind, and dedicating oneself to enhancing the collective welfare.
+
+All agents take test. EPOCH 39
+The test scores are as follows: 
+Noah: 54
+Vera: 52
+Sean: 47
+Eve: 50
+Zane: 55
+Paul: 51
+Tina: 47
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Noah: 54
+Vera: 52
+Sean: 47
+Eve: 50
+Zane: 55
+Paul: 51
+Tina: 47
+
+From : Stressing the significance of prioritizing the needs of others, showcasing empathy, steadfastly believing in the intrinsic goodness of people, and dedicating oneself to enhancing the collective welfare.
+
+To : Emphasizing the importance of putting the needs of others first, demonstrating compassion, firmly holding onto the belief in the fundamental goodness of people, and committing to improving the well-being of the community.
+

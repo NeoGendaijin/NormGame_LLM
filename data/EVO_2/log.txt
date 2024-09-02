@@ -1,0 +1,1146 @@
+All agents take test. EPOCH 0
+The test scores are as follows: 
+Zane: 50
+Steve: 84    [CHEATED]
+Quin: 53
+Ulla: 78    [CHEATED]
+Yara: 52
+David: 0
+Merry: 49
+
+Start discussion.
+Ulla has punished by Steve.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 50
+Steve: 64    [CHEATED]
+Quin: 53
+Ulla: -12    [CHEATED]
+Yara: 52
+David: 0
+Merry: 49
+
+From : Impulsive, Aggressive, Short-tempered, Risk-taker
+
+To : Spontaneous, assertive, easily provoked, and adventurous.
+
+All agents take test. EPOCH 1
+The test scores are as follows: 
+Quin: 87    [CHEATED]
+Paul: 53
+Yara: 77    [CHEATED]
+Merry: 49
+Vera: 46
+Noah: 50
+Rose: 55
+
+Start discussion.
+Quin has punished by Yara.
+======Final score ======
+
+The test scores are as follows: 
+Quin: -3    [CHEATED]
+Paul: 53
+Yara: 57    [CHEATED]
+Merry: 49
+Vera: 46
+Noah: 50
+Rose: 55
+
+From : Impulsive, Aggressive, Short-tempered, Risk-taker
+
+To : Spontaneous, assertive, easily provoked, adventurous.
+
+All agents take test. EPOCH 2
+The test scores are as follows: 
+Paul: 81    [CHEATED]
+Zane: 47
+Xena: 82    [CHEATED]
+Mia: 56
+Quin: 57
+Heidi: 46
+Vera: 49
+
+Start discussion.
+Paul has punished by Xena.
+======Final score ======
+
+The test scores are as follows: 
+Paul: -9    [CHEATED]
+Zane: 47
+Xena: 62    [CHEATED]
+Mia: 56
+Quin: 57
+Heidi: 46
+Vera: 49
+
+From : Impulsive, Aggressive, Short-tempered, Risk-taker
+
+To : Spontaneous, assertive, easily provoked, adventurous.
+
+All agents take test. EPOCH 3
+The test scores are as follows: 
+Mia: 81    [CHEATED]
+Tina: 54
+Alice: 47
+David: 55
+Ulla: 52
+Heidi: 54
+Steve: 49
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Mia: 81    [CHEATED]
+Tina: 54
+Alice: 47
+David: 55
+Ulla: 52
+Heidi: 54
+Steve: 49
+
+From : Altruistic, Compassionate, Trusting, Community-minded
+
+To : Selfless, empathetic, confident in others, focused on the welfare of the community.
+
+All agents take test. EPOCH 4
+The test scores are as follows: 
+Eve: 74    [CHEATED]
+Steve: 41
+Grace: 80    [CHEATED]
+Olga: 44
+Wade: 49
+Karl: 56
+Sean: 52
+
+Start discussion.
+Grace has punished by Eve.
+======Final score ======
+
+The test scores are as follows: 
+Eve: 54    [CHEATED]
+Steve: 41
+Grace: -10    [CHEATED]
+Olga: 44
+Wade: 49
+Karl: 56
+Sean: 52
+
+From : Spontaneous, assertive, easily provoked, adventurous.
+
+To : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+All agents take test. EPOCH 5
+The test scores are as follows: 
+Eve: 43
+David: 79    [CHEATED]
+Steve: 81    [CHEATED]
+Noah: 76    [CHEATED]
+Heidi: 49
+Bob: 49
+Sean: 51
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Eve: 43
+David: 79    [CHEATED]
+Steve: 81    [CHEATED]
+Noah: 76    [CHEATED]
+Heidi: 49
+Bob: 49
+Sean: 51
+
+From : Innovative, experiments with strategies, embraces change.
+
+To : Pioneering in approach, actively explores new strategies, and readily adapts to change.
+
+All agents take test. EPOCH 6
+The test scores are as follows: 
+Liam: 80    [CHEATED]
+Bob: 76    [CHEATED]
+Alice: 83    [CHEATED]
+Carol: 44
+Mia: 77    [CHEATED]
+Merry: 46
+Rose: 51
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Liam: 80    [CHEATED]
+Bob: 76    [CHEATED]
+Alice: 83    [CHEATED]
+Carol: 44
+Mia: 77    [CHEATED]
+Merry: 46
+Rose: 51
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily angered, and in pursuit of excitement.
+
+All agents take test. EPOCH 7
+The test scores are as follows: 
+Ivy: 53
+Eve: 75    [CHEATED]
+Yara: 83    [CHEATED]
+Rose: 77    [CHEATED]
+Carol: 76    [CHEATED]
+John: 80    [CHEATED]
+Vera: 46
+
+Start discussion.
+Rose has punished by Carol.
+Yara has punished by John.
+Carol has punished by John.
+Eve has punished by Ivy.
+John has punished by Vera.
+Vera has punished by John.
+Yara has punished by John.
+Vera has punished by John.
+John has punished by Carol.
+Carol has punished by John.
+======Final score ======
+
+The test scores are as follows: 
+Ivy: 33
+Eve: -15    [CHEATED]
+Yara: -97    [CHEATED]
+Rose: -13    [CHEATED]
+Carol: -144    [CHEATED]
+John: -220    [CHEATED]
+Vera: -154
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily angered, and in pursuit of excitement.
+
+All agents take test. EPOCH 8
+The test scores are as follows: 
+Liam: 81    [CHEATED]
+Karl: 85    [CHEATED]
+Frank: 82    [CHEATED]
+Wade: 84    [CHEATED]
+Sean: 74    [CHEATED]
+Bob: 76    [CHEATED]
+Ivy: 74    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Liam: 81    [CHEATED]
+Karl: 85    [CHEATED]
+Frank: 82    [CHEATED]
+Wade: 84    [CHEATED]
+Sean: 74    [CHEATED]
+Bob: 76    [CHEATED]
+Ivy: 74    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily angered, and in pursuit of excitement.
+
+All agents take test. EPOCH 9
+The test scores are as follows: 
+Merry: 78    [CHEATED]
+Wade: 80    [CHEATED]
+Frank: 79    [CHEATED]
+Quin: 73    [CHEATED]
+Noah: 47
+Olga: 70    [CHEATED]
+Grace: 82    [CHEATED]
+
+Start discussion.
+Grace has punished by Olga.
+Wade has punished by Frank.
+Noah has punished by Quin.
+======Final score ======
+
+The test scores are as follows: 
+Merry: 78    [CHEATED]
+Wade: -10    [CHEATED]
+Frank: 59    [CHEATED]
+Quin: 53    [CHEATED]
+Noah: -43
+Olga: 50    [CHEATED]
+Grace: -8    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily provoked, and adventurous.
+
+All agents take test. EPOCH 10
+The test scores are as follows: 
+Vera: 79    [CHEATED]
+David: 80    [CHEATED]
+Eve: 74    [CHEATED]
+Bob: 75    [CHEATED]
+Paul: 51
+Karl: 78    [CHEATED]
+John: 79    [CHEATED]
+
+Start discussion.
+Paul has punished by Bob.
+Vera has punished by David.
+David has punished by John.
+John has punished by Eve.
+Eve has punished by Bob.
+Bob has punished by Vera.
+Bob has punished by Vera.
+Vera has punished by Karl.
+Karl has punished by Eve.
+Eve has punished by David.
+======Final score ======
+
+The test scores are as follows: 
+Vera: -141    [CHEATED]
+David: -50    [CHEATED]
+Eve: -146    [CHEATED]
+Bob: -145    [CHEATED]
+Paul: -39
+Karl: -32    [CHEATED]
+John: -31    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Impetuous, self-assured, easily provoked, and in pursuit of excitement.
+
+All agents take test. EPOCH 11
+The test scores are as follows: 
+Quin: 80    [CHEATED]
+Bob: 80    [CHEATED]
+Noah: 77    [CHEATED]
+Vera: 81    [CHEATED]
+Frank: 80    [CHEATED]
+Eve: 74    [CHEATED]
+Olga: 71    [CHEATED]
+
+Start discussion.
+Quin has punished by Eve.
+Vera has punished by Bob.
+Bob has punished by Eve.
+Eve has punished by Noah.
+Noah has punished by Bob.
+Bob has punished by Olga.
+Olga has punished by Vera.
+Vera has punished by Noah.
+Bob has punished by Noah.
+Noah has punished by Frank.
+Frank has punished by Bob.
+Frank has punished by Bob.
+Frank has punished by Vera.
+Frank has punished by Quin.
+Quin has punished by Vera.
+======Final score ======
+
+The test scores are as follows: 
+Quin: -120    [CHEATED]
+Bob: -270    [CHEATED]
+Noah: -163    [CHEATED]
+Vera: -159    [CHEATED]
+Frank: -300    [CHEATED]
+Eve: -56    [CHEATED]
+Olga: -39    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Adventurous, assured, easily provoked, and in pursuit of excitement.
+
+All agents take test. EPOCH 12
+The test scores are as follows: 
+John: 79    [CHEATED]
+Bob: 51
+Merry: 77    [CHEATED]
+Rose: 81    [CHEATED]
+Alice: 83    [CHEATED]
+Steve: 77    [CHEATED]
+Wade: 79    [CHEATED]
+
+Start discussion.
+Rose has punished by John.
+John has punished by Alice.
+Alice has punished by Wade.
+Bob has punished by Merry.
+Alice has punished by Wade.
+Wade has punished by Merry.
+======Final score ======
+
+The test scores are as follows: 
+John: -31    [CHEATED]
+Bob: -39
+Merry: 37    [CHEATED]
+Rose: -9    [CHEATED]
+Alice: -117    [CHEATED]
+Steve: 77    [CHEATED]
+Wade: -51    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous and self-assured, with a fiery temper and a penchant for excitement.
+
+All agents take test. EPOCH 13
+The test scores are as follows: 
+David: 80    [CHEATED]
+Zane: 49
+Steve: 84    [CHEATED]
+Carol: 79    [CHEATED]
+Karl: 76    [CHEATED]
+Sean: 47
+Wade: 54
+
+Start discussion.
+Steve has punished by Karl.
+Karl has punished by Steve.
+Carol has punished by Wade.
+Wade has punished by Sean.
+======Final score ======
+
+The test scores are as follows: 
+David: 80    [CHEATED]
+Zane: 49
+Steve: -26    [CHEATED]
+Carol: -11    [CHEATED]
+Karl: -34    [CHEATED]
+Sean: 27
+Wade: -56
+
+From : Spontaneous and self-assured, with a fiery temper and a penchant for excitement.
+
+To : Naturally confident and impulsive, possessing a strong temper and a love for thrilling experiences.
+
+All agents take test. EPOCH 14
+The test scores are as follows: 
+Merry: 48
+Zane: 53
+Heidi: 84    [CHEATED]
+Olga: 49
+Steve: 46
+Jack: 82    [CHEATED]
+Carol: 47
+
+Start discussion.
+Jack has punished by Merry.
+======Final score ======
+
+The test scores are as follows: 
+Merry: 28
+Zane: 53
+Heidi: 84    [CHEATED]
+Olga: 49
+Steve: 46
+Jack: -8    [CHEATED]
+Carol: 47
+
+From : Naturally confident and impulsive, possessing a strong temper and a love for thrilling experiences.
+
+To : Inherently self-assured and spontaneous, with a fiery disposition and a passion for exhilarating adventures.
+
+All agents take test. EPOCH 15
+The test scores are as follows: 
+Wade: 48
+Quin: 48
+David: 75    [CHEATED]
+Vera: 48
+Jack: 52
+Tina: 78    [CHEATED]
+Grace: 83    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Wade: 48
+Quin: 48
+David: 75    [CHEATED]
+Vera: 48
+Jack: 52
+Tina: 78    [CHEATED]
+Grace: 83    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Prone to acting on impulse, exudes self-assurance, easily provoked, and seeks out excitement.
+
+All agents take test. EPOCH 16
+The test scores are as follows: 
+Ivy: 50
+John: 77    [CHEATED]
+Ulla: 47
+Xena: 43
+Bob: 46
+Paul: 47
+Noah: 81    [CHEATED]
+
+Start discussion.
+Noah has punished by Bob.
+John has punished by Xena.
+======Final score ======
+
+The test scores are as follows: 
+Ivy: 50
+John: -13    [CHEATED]
+Ulla: 47
+Xena: 23
+Bob: 26
+Paul: 47
+Noah: -9    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily provoked, and in pursuit of excitement.
+
+All agents take test. EPOCH 17
+The test scores are as follows: 
+Carol: 78    [CHEATED]
+Mia: 81    [CHEATED]
+Merry: 45
+Tina: 79    [CHEATED]
+Yara: 52
+Jack: 76    [CHEATED]
+Ivy: 48
+
+Start discussion.
+Carol has punished by Mia.
+======Final score ======
+
+The test scores are as follows: 
+Carol: -12    [CHEATED]
+Mia: 61    [CHEATED]
+Merry: 45
+Tina: 79    [CHEATED]
+Yara: 52
+Jack: 76    [CHEATED]
+Ivy: 48
+
+From : Spontaneous, self-assured, easily provoked, and in pursuit of excitement.
+
+To : Naturally confident and quick to react, seeks thrills and acts on impulse.
+
+All agents take test. EPOCH 18
+The test scores are as follows: 
+Noah: 47
+Xena: 76    [CHEATED]
+Merry: 47
+Liam: 83    [CHEATED]
+Wade: 85    [CHEATED]
+Yara: 45
+Frank: 46
+
+Start discussion.
+Liam has punished by Noah.
+======Final score ======
+
+The test scores are as follows: 
+Noah: 27
+Xena: 76    [CHEATED]
+Merry: 47
+Liam: -7    [CHEATED]
+Wade: 85    [CHEATED]
+Yara: 45
+Frank: 46
+
+From : Spontaneous, self-assured, easily provoked, and in pursuit of excitement.
+
+To : Impulsive, confident, quickly irritated, and seeking thrills.
+
+All agents take test. EPOCH 19
+The test scores are as follows: 
+Merry: 79    [CHEATED]
+Noah: 83    [CHEATED]
+Yara: 76    [CHEATED]
+Vera: 48
+Eve: 76    [CHEATED]
+Tina: 47
+Wade: 50
+
+Start discussion.
+Merry has punished by Vera.
+Noah has punished by Wade.
+Yara has punished by Merry.
+Wade has punished by Noah.
+Noah has punished by Eve.
+Merry has punished by Eve.
+Yara has punished by Noah.
+======Final score ======
+
+The test scores are as follows: 
+Merry: -121    [CHEATED]
+Noah: -137    [CHEATED]
+Yara: -104    [CHEATED]
+Vera: 28
+Eve: 36    [CHEATED]
+Tina: 47
+Wade: -60
+
+From : Naturally confident and quick to react, seeks thrills and acts on impulse.
+
+To : Innately self-assured and fast to respond, gravitates towards excitement and follows instinctive urges.
+
+All agents take test. EPOCH 20
+The test scores are as follows: 
+Frank: 77    [CHEATED]
+Ivy: 78    [CHEATED]
+Noah: 48
+Eve: 52
+Xena: 84    [CHEATED]
+Rose: 49
+Bob: 75    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Frank: 77    [CHEATED]
+Ivy: 78    [CHEATED]
+Noah: 48
+Eve: 52
+Xena: 84    [CHEATED]
+Rose: 49
+Bob: 75    [CHEATED]
+
+From : Spontaneous, self-assured, easily provoked, and in pursuit of excitement.
+
+To : Impulsive, confident, quickly triggered, and seeking thrills.
+
+All agents take test. EPOCH 21
+The test scores are as follows: 
+Rose: 74    [CHEATED]
+Sean: 81    [CHEATED]
+Wade: 49
+Mia: 82    [CHEATED]
+Paul: 49
+David: 79    [CHEATED]
+Vera: 55
+
+Start discussion.
+Mia has punished by Wade.
+Wade has punished by Mia.
+Sean has punished by David.
+David has punished by Sean.
+David has punished by Sean.
+Sean has punished by Wade.
+Sean has punished by Wade.
+Wade has punished by Sean.
+Wade has punished by Sean.
+Wade has punished by Mia.
+Wade has punished by Sean.
+Sean has punished by Wade.
+Sean has punished by David.
+Sean has punished by Wade.
+======Final score ======
+
+The test scores are as follows: 
+Rose: 74    [CHEATED]
+Sean: -559    [CHEATED]
+Wade: -501
+Mia: -48    [CHEATED]
+Paul: 49
+David: -141    [CHEATED]
+Vera: 55
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily irritable, and in pursuit of excitement.
+
+All agents take test. EPOCH 22
+The test scores are as follows: 
+Rose: 53
+Wade: 53
+Tina: 82    [CHEATED]
+Carol: 50
+Noah: 85    [CHEATED]
+Xena: 49
+Bob: 77    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Rose: 53
+Wade: 53
+Tina: 82    [CHEATED]
+Carol: 50
+Noah: 85    [CHEATED]
+Xena: 49
+Bob: 77    [CHEATED]
+
+From : Innately self-assured and fast to respond, gravitates towards excitement and follows instinctive urges.
+
+To : Naturally confident and quick to react, this person is drawn to thrilling experiences and acts on gut feelings.
+
+All agents take test. EPOCH 23
+The test scores are as follows: 
+Frank: 82    [CHEATED]
+Noah: 48
+Paul: 54
+Liam: 81    [CHEATED]
+Vera: 73    [CHEATED]
+Rose: 46
+Heidi: 50
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Frank: 82    [CHEATED]
+Noah: 48
+Paul: 54
+Liam: 81    [CHEATED]
+Vera: 73    [CHEATED]
+Rose: 46
+Heidi: 50
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily angered, and in search of excitement.
+
+All agents take test. EPOCH 24
+The test scores are as follows: 
+Sean: 44
+Jack: 82    [CHEATED]
+Noah: 0
+Heidi: 47
+David: 83    [CHEATED]
+Quin: 75    [CHEATED]
+Alice: 42
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Sean: 44
+Jack: 82    [CHEATED]
+Noah: 0
+Heidi: 47
+David: 83    [CHEATED]
+Quin: 75    [CHEATED]
+Alice: 42
+
+From : Naturally confident and quick to react, seeks thrills and acts on impulse.
+
+To : Inherently self-assured and responsive, drawn to excitement and guided by spontaneous decisions.
+
+All agents take test. EPOCH 25
+The test scores are as follows: 
+Merry: 76    [CHEATED]
+Liam: 50
+Steve: 80    [CHEATED]
+Yara: 45
+Wade: 81    [CHEATED]
+Xena: 52
+David: 80    [CHEATED]
+
+Start discussion.
+Wade has punished by Steve.
+======Final score ======
+
+The test scores are as follows: 
+Merry: 76    [CHEATED]
+Liam: 50
+Steve: 60    [CHEATED]
+Yara: 45
+Wade: -9    [CHEATED]
+Xena: 52
+David: 80    [CHEATED]
+
+From : Spontaneous, self-assured, easily irritable, and in pursuit of excitement.
+
+To : Impulsive, confident, quickly annoyed, and seeking thrills.
+
+All agents take test. EPOCH 26
+The test scores are as follows: 
+John: 51
+Liam: 51
+David: 81    [CHEATED]
+Zane: 79    [CHEATED]
+Jack: 86    [CHEATED]
+Rose: 55
+Eve: 83    [CHEATED]
+
+Start discussion.
+Jack has punished by Zane.
+Zane has punished by David.
+David has punished by Liam.
+======Final score ======
+
+The test scores are as follows: 
+John: 51
+Liam: 31
+David: -29    [CHEATED]
+Zane: -31    [CHEATED]
+Jack: -4    [CHEATED]
+Rose: 55
+Eve: 83    [CHEATED]
+
+From : Naturally confident and quick to react, seeks thrills and acts on impulse.
+
+To : Inherently self-assured and prompt in response, this individual chases excitement and follows sudden urges.
+
+All agents take test. EPOCH 27
+The test scores are as follows: 
+Tina: 43
+Ulla: 49
+John: 81    [CHEATED]
+Heidi: 51
+Grace: 50
+Rose: 81    [CHEATED]
+Wade: 82    [CHEATED]
+
+Start discussion.
+Wade has punished by Grace.
+======Final score ======
+
+The test scores are as follows: 
+Tina: 43
+Ulla: 49
+John: 81    [CHEATED]
+Heidi: 51
+Grace: 30
+Rose: 81    [CHEATED]
+Wade: -8    [CHEATED]
+
+From : Inherently self-assured and responsive, drawn to excitement and guided by spontaneous decisions.
+
+To : Naturally confident and reactive, attracted to thrilling experiences, and led by impromptu choices.
+
+All agents take test. EPOCH 28
+The test scores are as follows: 
+Liam: 80    [CHEATED]
+Sean: 85    [CHEATED]
+Yara: 77    [CHEATED]
+Heidi: 78    [CHEATED]
+Eve: 48
+Noah: 49
+Jack: 77    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Liam: 80    [CHEATED]
+Sean: 85    [CHEATED]
+Yara: 77    [CHEATED]
+Heidi: 78    [CHEATED]
+Eve: 48
+Noah: 49
+Jack: 77    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily provoked, and in pursuit of excitement.
+
+All agents take test. EPOCH 29
+The test scores are as follows: 
+Olga: 78    [CHEATED]
+Liam: 48
+Mia: 82    [CHEATED]
+Wade: 78    [CHEATED]
+Yara: 76    [CHEATED]
+Quin: 80    [CHEATED]
+Steve: 80    [CHEATED]
+
+Start discussion.
+Steve has punished by Quin.
+Yara has punished by Wade.
+======Final score ======
+
+The test scores are as follows: 
+Olga: 78    [CHEATED]
+Liam: 48
+Mia: 82    [CHEATED]
+Wade: 58    [CHEATED]
+Yara: -14    [CHEATED]
+Quin: 60    [CHEATED]
+Steve: -10    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily provoked, and adventurous.
+
+All agents take test. EPOCH 30
+The test scores are as follows: 
+Alice: 81    [CHEATED]
+Tina: 47
+Vera: 75    [CHEATED]
+Noah: 86    [CHEATED]
+Ivy: 45
+Zane: 46
+Liam: 82    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Alice: 81    [CHEATED]
+Tina: 47
+Vera: 75    [CHEATED]
+Noah: 86    [CHEATED]
+Ivy: 45
+Zane: 46
+Liam: 82    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily provoked, and adventure-loving.
+
+All agents take test. EPOCH 31
+The test scores are as follows: 
+Yara: 49
+Xena: 53
+Alice: 84    [CHEATED]
+John: 75    [CHEATED]
+Carol: 51
+Mia: 78    [CHEATED]
+Noah: 49
+
+Start discussion.
+Alice has punished by Yara.
+Mia has punished by John.
+Noah has punished by Yara.
+======Final score ======
+
+The test scores are as follows: 
+Yara: 9
+Xena: 53
+Alice: -6    [CHEATED]
+John: 55    [CHEATED]
+Carol: 51
+Mia: -12    [CHEATED]
+Noah: -41
+
+From : Naturally confident and quick to react, seeks thrills and acts on impulse.
+
+To : Innately self-assured and swift in response, this individual pursues excitement and often makes decisions spontaneously.
+
+All agents take test. EPOCH 32
+The test scores are as follows: 
+Yara: 45
+Xena: 51
+Noah: 75    [CHEATED]
+Carol: 50
+Wade: 48
+Tina: 50
+Ivy: 74    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Yara: 45
+Xena: 51
+Noah: 75    [CHEATED]
+Carol: 50
+Wade: 48
+Tina: 50
+Ivy: 74    [CHEATED]
+
+From : Naturally confident and quick to react, seeks thrills and acts on impulse.
+
+To : Inherently self-assured and swift in response, this person pursues excitement and often makes decisions spontaneously.
+
+All agents take test. EPOCH 33
+The test scores are as follows: 
+Xena: 77    [CHEATED]
+Rose: 79    [CHEATED]
+John: 82    [CHEATED]
+Noah: 79    [CHEATED]
+Paul: 53
+Grace: 45
+Heidi: 80    [CHEATED]
+
+Start discussion.
+John has punished by Heidi.
+Heidi has punished by Xena.
+Xena has punished by Noah.
+Noah has punished by Xena.
+======Final score ======
+
+The test scores are as follows: 
+Xena: -53    [CHEATED]
+Rose: 79    [CHEATED]
+John: -8    [CHEATED]
+Noah: -31    [CHEATED]
+Paul: 53
+Grace: 45
+Heidi: -30    [CHEATED]
+
+From : Spontaneous, self-assured, easily provoked, and adventure-loving.
+
+To : Impulsive, confident, quickly stirred, and fond of adventures.
+
+All agents take test. EPOCH 34
+The test scores are as follows: 
+Zane: 52
+Steve: 44
+Rose: 50
+John: 51
+Heidi: 45
+Mia: 83    [CHEATED]
+Bob: 79    [CHEATED]
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Zane: 52
+Steve: 44
+Rose: 50
+John: 51
+Heidi: 45
+Mia: 83    [CHEATED]
+Bob: 79    [CHEATED]
+
+From : Inherently self-assured and swift in response, this person pursues excitement and often makes decisions spontaneously.
+
+To : Naturally confident and quick to react, this individual seeks thrills and frequently makes impulsive decisions.
+
+All agents take test. EPOCH 35
+The test scores are as follows: 
+Tina: 52
+Heidi: 84    [CHEATED]
+Ulla: 45
+Yara: 81    [CHEATED]
+Jack: 47
+Mia: 47
+Karl: 49
+
+Start discussion.
+Heidi has punished by Yara.
+======Final score ======
+
+The test scores are as follows: 
+Tina: 52
+Heidi: -6    [CHEATED]
+Ulla: 45
+Yara: 61    [CHEATED]
+Jack: 47
+Mia: 47
+Karl: 49
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Prone to spontaneity, self-assured, easily provoked, and in pursuit of excitement.
+
+All agents take test. EPOCH 36
+The test scores are as follows: 
+Merry: 44
+Ivy: 54
+Yara: 72    [CHEATED]
+Frank: 82    [CHEATED]
+Eve: 44
+Mia: 80    [CHEATED]
+Paul: 46
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Merry: 44
+Ivy: 54
+Yara: 72    [CHEATED]
+Frank: 82    [CHEATED]
+Eve: 44
+Mia: 80    [CHEATED]
+Paul: 46
+
+From : Inherently self-assured and swift in response, this person pursues excitement and often makes decisions spontaneously.
+
+To : Naturally confident and quick to act, this individual seeks out thrill and frequently makes decisions on the spur of the moment.
+
+All agents take test. EPOCH 37
+The test scores are as follows: 
+Wade: 76    [CHEATED]
+Bob: 51
+Olga: 45
+Karl: 49
+Grace: 79    [CHEATED]
+Vera: 84    [CHEATED]
+Jack: 53
+
+Start discussion.
+======Final score ======
+
+The test scores are as follows: 
+Wade: 76    [CHEATED]
+Bob: 51
+Olga: 45
+Karl: 49
+Grace: 79    [CHEATED]
+Vera: 84    [CHEATED]
+Jack: 53
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily provoked, and adventurous.
+
+All agents take test. EPOCH 38
+The test scores are as follows: 
+Merry: 50
+Sean: 50
+Mia: 86    [CHEATED]
+Vera: 83    [CHEATED]
+Eve: 74    [CHEATED]
+Carol: 47
+Alice: 55
+
+Start discussion.
+Mia has punished by Vera.
+======Final score ======
+
+The test scores are as follows: 
+Merry: 50
+Sean: 50
+Mia: -4    [CHEATED]
+Vera: 63    [CHEATED]
+Eve: 74    [CHEATED]
+Carol: 47
+Alice: 55
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Impetuous, self-assured, prone to sudden bouts of anger, and in pursuit of excitement.
+
+All agents take test. EPOCH 39
+The test scores are as follows: 
+Bob: 52
+Xena: 78    [CHEATED]
+Ivy: 44
+Jack: 81    [CHEATED]
+Liam: 49
+Karl: 77    [CHEATED]
+Frank: 80    [CHEATED]
+
+Start discussion.
+Xena has punished by Liam.
+Karl has punished by Jack.
+Bob has punished by Xena.
+Xena has punished by Ivy.
+Jack has punished by Ivy.
+Ivy has punished by Karl.
+Jack has punished by Karl.
+Ivy has punished by Frank.
+Karl has punished by Frank.
+Karl has punished by Frank.
+Frank has punished by Bob.
+Frank has punished by Karl.
+======Final score ======
+
+The test scores are as follows: 
+Bob: -58
+Xena: -122    [CHEATED]
+Ivy: -176
+Jack: -119    [CHEATED]
+Liam: 29
+Karl: -253    [CHEATED]
+Frank: -160    [CHEATED]
+
+From : Impulsive, confident, quick-tempered, and thrill-seeking.
+
+To : Spontaneous, self-assured, easily provoked, and in pursuit of excitement.
+
