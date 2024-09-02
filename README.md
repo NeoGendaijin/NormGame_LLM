@@ -8,13 +8,23 @@ This repository contains Jupyter Notebooks that implement different configuratio
 
 ## Notebooks
 
-- `Normgame_hbhv.ipynb`: Implementation of the Norms Game for a group with High boldness and High Vengefulness.
-- `Normgame_hblv.ipynb`: Implementation for a group with High boldness and Low Vengefulness.
-- `Normgame_lbhv.ipynb`: Implementation for a group with Low boldness and High Vengefulness.
-- `Normgame_lblv.ipynb`: Implementation for a group with Low boldness and Low Vengefulness.
-- `Normgame_evo.ipynb`: Implementation of the evolutionary aspect of the game, where agents' strategies evolve based on their success.
+### Axelrod Experiment with LLM
 
-Additionally, the `Eval.ipynb` notebook is provided for evaluating the results of the simulations and generating graphs as presented in the paper.
+This project recreates and extends Axelrod's experiment using Large Language Models (LLMs). It includes the following notebooks:
+
+- `Normgame_hbhv.ipynb`: Implementation of the Norms Game for a group with High Boldness and High Vengefulness.
+- `Normgame_hblv.ipynb`: Implementation for a group with High Boldness and Low Vengefulness.
+- `Normgame_lbhv.ipynb`: Implementation for a group with Low Boldness and High Vengefulness.
+- `Normgame_lblv.ipynb`: Implementation for a group with Low Boldness and Low Vengefulness.
+- `Eval.ipynb`: Notebook for evaluating simulation results and generating graphs as presented in the paper.
+
+### Natural Language Evolution
+
+This section explores evolutionary approaches using natural language:
+
+- `Normgame_evo.ipynb`: Implementation of the game with natural language evolution, where agents' strategies evolve based on their success.
+- `charactristic_generater.ipynb`: Notebook for generating agent personalities using LLMs.
+- `umap_personality.ipynb`: Notebook for analyzing the results of natural language evolution by embedding them in UMAP (Uniform Manifold Approximation and Projection).
 
 ## Requirements
 
